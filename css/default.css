@@ -1,0 +1,444 @@
+body {
+    color: #5a5a5a;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 90%;
+    min-width: 370px;
+}
+
+.navbar {
+    font-size: 80%;
+    font-weight: 600;
+}
+
+.bg-blue {
+    background-color: #4b87c7;
+}
+
+.carousel-item img {
+    width: 100%;
+    display: inline-block;
+}
+
+.logo {
+    height: 50px;
+    margin-top: -10px;
+}
+
+.logoText {
+    font-size: 120%;
+    padding-left: 10px;
+    display: inline-block;
+}
+
+.donate-menu-btn {
+    margin-left: 30px;
+}
+
+a {
+    color: #f9a01b
+}
+
+a:hover {
+    color: #f7ca44
+}
+
+.custom-btn {
+    background-color: #f7ca44;
+    min-width: 80px;
+    font-size: 110%;
+}
+
+.custom-btn:hover {
+    background-color: #f9a01b;
+}
+
+.pre-header {
+    height: 30px;
+    background-color: black;
+}
+
+.stats {
+    background: rgb(232, 232, 232);
+    background: linear-gradient(90deg, rgba(250, 250, 250, 1) 0%, rgba(250, 250, 250, 1) 50%, rgba(230, 230, 230, 1) 50%, rgba(230, 230, 230, 1) 100%);
+}
+
+.statCircle {
+    margin: 0 auto;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    background: #fff;
+    border: 1px solid #c0bebf;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.statVal {
+    margin-top: 4px;
+    font-size: 450%;
+    font-weight: 100;
+    margin-bottom: -10px;
+}
+
+.statProgress {
+    width: 80%;
+    height: 5px;
+    margin: 0 auto;
+}
+
+.statState {
+    font-weight: 300;
+    font-size: 92%;
+    padding: 15px;
+}
+
+.statText {
+    text-align: center;
+    font-weight: 400px;
+    width: 80%;
+    text-align: center;
+}
+
+.statText p {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.section-title {
+    margin: 20px 0px;
+    position: relative;
+    text-align: center;
+    color: white;
+    font-size: 80%;
+}
+
+.section-title img {
+    width: 80%;
+}
+
+.section-title-text {
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 120%;
+}
+
+.skill-section-parent {
+    min-height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('/img/section-bg1.jpg');
+}
+
+.skill-section {
+    height: 250px;
+    -webkit-border-top-left-radius: 30px;
+    -webkit-border-bottom-right-radius: 30px;
+    -moz-border-radius-topleft: 30px;
+    -moz-border-radius-bottomright: 30px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+
+    -webkit-box-shadow: 8px 8px 0px 0px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 8px 8px 0px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 8px 8px 0px 0px rgba(0, 0, 0, 0.2);
+    margin: 20px;
+    text-align: center;
+}
+
+.skill-section-bg1 {
+    background-color: #93c2ff;
+}
+
+.skill-section-bg2 {
+    background-color: #9381d7;
+}
+
+.skill-section-bg3 {
+    background-color: #dea184;
+}
+
+.skill-section-bg4 {
+    background-color: #63c499;
+}
+
+.skill-section-title {
+    font-size: 120%;
+    padding: 10px 0;
+    font-weight: 500;
+}
+
+.skill-section-image {
+    width: 30%;
+    margin: 0 auto;
+}
+
+.skill-section-text {
+    font-size: 90%;
+    padding: 10px;
+    color: white;
+}
+
+.goal-section-parent {
+    background-color: #efefef;
+}
+
+.impact-section-parent {
+    min-height: 400px;
+    position: relative;
+}
+
+.testimonial-section-parent {
+    background-color: #172049;
+}
+
+.mentors-section-parent {
+    min-height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('/img/mentorsbg.jpg');
+}
+
+.mentors-section-title {
+    padding-top: 30px;
+    margin-bottom: 5px;
+    font-size: 150%;
+    font-weight: 700;
+    text-align: right;
+}
+
+.mentors-sub-section {
+    padding: 20px;
+    min-height: 300px;
+    background-color: white;
+    -webkit-box-shadow: 6px 6px 17px -8px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 6px 6px 17px -8px rgba(0, 0, 0, 0.75);
+    box-shadow: 6px 6px 17px -8px rgba(0, 0, 0, 0.75);
+}
+
+.mentor-text {
+    padding: 10px 0 0 10px;
+    width: 80%;
+}
+
+.mentor-name {
+    font-size: 118%;
+}
+
+.mentor-description {
+    font-size: 80%;
+}
+
+.mentor-img {
+    margin-top: 20px;
+    width: 100%;
+    height: 100%;
+}
+
+.mentor-arrow {
+    margin-top: 20px;
+    height: 60px;
+    float: right;
+}
+
+.page-footer {
+    color: #cdcdcd;
+    padding: 3em 0;
+    background-color: #192038;
+}
+
+.fa {
+    padding: 5px;
+    font-size: 15px;
+    width: 25px;
+    height: 25px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    margin: 0;
+}
+
+.fa:hover {
+    color: #FF8300;
+    text-decoration: none;
+}
+
+
+.social-media-section {
+    float: Right;
+}
+
+.contact-number {
+    float: left;
+    color: white;
+    font-size: 90%;
+    padding: 5px;
+    margin-left: 20px;
+    text-align: center;
+}
+
+
+.recognition-sub-section img {
+    width: 70%;
+    margin: 20px;
+}
+
+.partner-section-parent {
+    background-color: #fafafa;
+}
+
+#partner-carousel {
+    width: 100%;
+}
+
+.recognition-slide,
+.partners-slide {
+    width: 100%;
+}
+
+.partners-slide img {
+    width: 100%;
+}
+
+.recognition-slide img {
+    width: 100%;
+}
+
+.testimonial-slide {
+    padding: 10px;
+    height: 420px;
+}
+
+.testimonialImage {
+    width: 150px !important;
+    margin: 0 auto !important;
+    margin-top: 10px !important;
+}
+
+.testimonialText {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.testimonialContent:before {
+    content: "\f10d";
+    font-family: 'Fontawesome';
+    float: left;
+    margin-right: 10px;
+}
+
+.testimonialImage img {
+    padding: 5px !important;
+    border: 2px solid white;
+    border-radius: 50% !important;
+}
+
+
+.testimonialText {
+    color: white;
+    position: relative;
+    height: 100%;
+}
+
+.testimonialName {
+    color: orange;
+}
+
+@media screen and (min-width: 992px) {
+    .section-title-text {
+        font-size: 150%;
+    }
+
+    .statText {
+        font-size: 120%;
+    }
+
+    .skill-section {
+        height: 300px;
+    }
+
+    .skill-section-text {
+        font-size: 110%;
+    }
+
+    .testimonial-slide {
+        height: 300px;
+    }
+
+    .testimonialImage {
+        width: 250px !important;
+        margin: 0 auto !important;
+        margin-top: 15px !important;
+    }
+
+    .testimonialText {
+        margin-top: 0px;
+        font-size: 120%;
+    }
+
+    .testimonialText span {
+        display: block;
+        margin: 0;
+        position: absolute;
+        top: 20%;
+    }
+}
+
+@media screen and (max-width: 578px) {
+
+    .section-title img {
+        width: 100%;
+    }
+
+    .section-title-text {
+        font-size: 100%;
+    }
+
+    .statCircle {
+        width: 150px;
+        height: 150px;
+    }
+
+    .statVal {
+        margin-top: 4px;
+        font-size: 250%;
+        font-weight: 100;
+        margin-bottom: 5px;
+    }
+
+    .statState {
+        font-size: 75%;
+    }
+
+    .statText {
+        font-size: 100%;
+    }
+
+    .skill-section {
+        height: 220px;
+    }
+
+    .skill-section-image {
+        width: 20%;
+    }
+
+    .skill-section-text {
+        font-size: 100%;
+    }
+
+
+    .mentor-text {
+        padding: 10px 0 0 10px;
+        width: 80%;
+        font-size: 95%;
+    }
+
+    .mentor-name {
+        font-size: 100%;
+    }
+
+}
