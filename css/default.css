@@ -89,7 +89,7 @@ a:hover {
 .statState {
     font-weight: 300;
     font-size: 92%;
-    padding: 15px;
+    padding: 10px 15px;
 }
 
 .statText {
@@ -234,7 +234,6 @@ a:hover {
 }
 
 .mentor-img {
-    margin-top: 20px;
     width: 100%;
     height: 100%;
 }
