@@ -33,6 +33,21 @@
 }
 
 /* peer teaching */
-.peerMore{
-font-weight: bold;
+.peerMore {
+    font-weight: bold;
+}
+
+.dot {
+    height: 77%;
+    width: 66%;
+    background-color: #4b87c7;
+    border-radius: 50%;
+    display: inline-block;
+    line-height: 67px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.modal-dialog{
+    max-width: 60%;
 }
