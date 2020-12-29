@@ -19,10 +19,24 @@ button:focus{
 }
 
 
+/* Timeline sample starts*/
+
+/* .sectiontimeline ol li {
+  position: relative;
+  display: inline-block;
+  list-style-type: none;
+  width: 110px;
+  height: 3px;
+  background: #6699d0;
+  /* left: 60px; */
+  margin-left: 60px;
+} */
+
+/* Timeline sample ends */
 
 
-/* TIMELINE
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+/* TIMELINE */
 
 .timeline {
   white-space: nowrap;
@@ -32,7 +46,7 @@ button:focus{
 .timeline ol {
   font-size: 0;
   width: 100vw;
-  padding: 250px 0;
+  padding: 160px 0;
   transition: all 1s;
 }
 
@@ -40,10 +54,25 @@ button:focus{
   position: relative;
   display: inline-block;
   list-style-type: none;
-  width: 160px;
+  width: 110px;
   height: 3px;
-  background: #4B87C7;
+  background: #6699d0;
+  /* left: 60px; */
+  margin-left: 60px;
 }
+
+/* .timeline ol li:last-child::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: calc(100% + 1px);
+  bottom: 0;
+  width: 12px;
+  height: 12px;
+  transform: translateY(-50%);
+  border-radius: 50%;
+  background: #FFA100;
+} */
 
 .timeline ol li:last-child {
   width: 280px;
@@ -69,12 +98,12 @@ button:focus{
 .timeline ol li div {
   position: absolute;
   left: calc(100% + 7px);
-  width: 280px;
-  padding: 15px;
+  width: 200px;
+  padding: 10px;
   font-size: 1rem;
   white-space: normal;
-  color: black;
-  background: #4B87C7;
+  color: white;
+  background: #6699d0;
   border-radius: 0px 20px 0px 20px;
 }
 
@@ -117,13 +146,12 @@ button:focus{
 }
 
 
-/* TIMELINE ARROWS
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* TIMELINE ARROWS */
 
 .timeline .arrows {
   display: flex;
   justify-content: center;
-  margin-bottom: 20px;
+  /* margin-bottom: 20px; */
 }
 
 .timeline .arrows .arrow__prev {
@@ -134,9 +162,19 @@ button:focus{
   opacity: .5;
 }
 
-.timeline .arrows img {
+/* .timeline .arrows img {
   width: 45px;
   height: 45px;
+} */
+
+/* .fa{
+  color: #4B87C7;
+  font-size: 2em;
+} */
+
+.carousel-control-next-icon .carousel-control-prev-icon{
+  width: 24px;
+  height: 24px;
 }
 
 
@@ -168,9 +206,11 @@ button:focus{
   }
   
   .timeline ol li div {
-    width: 94%;
+    width: 74%;
     height: auto !important;
-    margin: 0 auto 25px;
+    /* margin: 0 auto 25px; */
+    display: flex;
+    margin-bottom: 10px;
   }
   
   .timeline ol li div {
