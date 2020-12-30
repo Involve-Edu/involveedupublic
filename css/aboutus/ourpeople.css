@@ -126,7 +126,7 @@
 
 /* Group image style starts from here */
 .groupimage{
-  margin-top: 20px;
+  /* margin-top: 20px; */
   /* display: flex; */
   display: block;
   max-width: 100%;
@@ -145,6 +145,7 @@
 .ourculturtext{
   text-align: justify;
   text-justify: inter-word;
+  padding-bottom: 20px;
 }
 
 /* Our culture style ends here */
