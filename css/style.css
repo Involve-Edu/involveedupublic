@@ -48,6 +48,57 @@
     font-weight: bold;
 }
 
-.modal-dialog{
+.modal-dialog {
     max-width: 60%;
+}
+
+.modelImg {
+    border-radius: 10%;
+}
+
+.modelImg img {
+    object-fit: cover;
+    width: 179px;
+    border-radius: 46%;
+    height: 134px;
+}
+
+/*hover efecvt model sec*/
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 100%;
+  transform: translate(-6%, -50%);
+  -ms-transform: translate(-50%, -50%);
+
+}
+
+.modelImg:hover img {
+    opacity: 0.1;
+}
+.modelImg:hover .middle{
+     opacity: 1;
+}
+
+.learn {
+    font-weight: bold;
+  color: black;
+  font-size: 16px;
+}
+
+/* end of hover effect */
+
+/*Stake holders*/
+.circle {
+  width: 200px;
+  height: 200px;
+  line-height: 200px;
+  border-radius: 50%;
+  font-size: 15px;
+  color: #000000;
+  text-align: center;
+  background:#ffa100;
+    font-weight: bold;
 }
