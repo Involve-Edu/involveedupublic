@@ -112,10 +112,10 @@
 
 /* logo style starts from here */
 
-.logoimages{
+/* .logoimages{
   margin:0 auto;
   display: block;
-}
+} */
 
 /* logo style ends here */
 
@@ -182,11 +182,11 @@
     text-justify: inter-word;
   }
 
-  .logoimages{
+  /* .logoimages{
     margin:0 auto;
     display: inline;
     width: 150px;
-  }
+  } */
 }
 
 
@@ -219,11 +219,11 @@
       text-justify: inter-word;
     }
 
-    .logoimages{
+    /* .logoimages{
       margin:0 auto;
       display: inline;
       width: 115px;
-    }
+    } */
   }
 
     @media screen and (max-width: 375px) {
@@ -247,11 +247,11 @@
         text-transform: uppercase; 
       }
 
-      .logoimages{
+      /* .logoimages{
         margin:0 auto;
         display: inline;
         width: 110px;
-      }
+      } */
   }
 
 /* Responsive work on images ends here */
