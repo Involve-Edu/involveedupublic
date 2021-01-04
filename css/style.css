@@ -93,15 +93,16 @@
 
 /*Stake holders*/
 .circle {
-    width: 200px;
-    height: 200px;
-    line-height: 200px;
+    width: 77%;
+    height: 148px;
+    line-height: 147px;
     border-radius: 50%;
     font-size: 15px;
     color: #000000;
     text-align: center;
     background: #ffa100;
     font-weight: bold;
+    margin: 13px 44px 12px auto;
 }
 
 /*drop down*/
