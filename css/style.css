@@ -106,14 +106,16 @@
 
 /*drop down*/
 /*impact sect*/
+
 .impact {
     text-align: center;
     max-height: 250px;
-    min-height: 170px;
+    min-height: 212px;
 }
 
 .impactHead {
     font-size: 10px;
+    font-weight: 800;
 }
 
 /*impact video*/
@@ -129,7 +131,7 @@ div.gallery {
     margin: 5px;
     border: 1px solid #ccc;
     float: left;
-    width: 180px;
+    width: 228px;
 }
 
 div.gallery:hover {
