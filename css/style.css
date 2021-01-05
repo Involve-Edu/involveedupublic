@@ -1,5 +1,18 @@
 .progrmImg {
-    border-radius: 50%;
+    border-radius: 49%;
+    margin: 0 auto;
+    display: inline;
+    width: 210px;
+    height: 210px;
+    object-fit: cover;
+    overflow: hidden;
+}
+.programText{
+    font-size: 120%;
+}
+
+.peerImg{
+    border: 2px solid gray;
 }
 
 .overlay {
@@ -129,10 +142,10 @@
 
 /*Impact image gallary sec*/
 div.gallery {
-    margin: 5px;
+    margin: 1px;
     border: 1px solid #ccc;
     float: left;
-    width: 228px;
+    width: 275px;
 }
 
 div.gallery:hover {
@@ -147,4 +160,47 @@ div.gallery img {
 div.desc {
     padding: 15px;
     text-align: center;
+}
+
+/*Video*/
+.video {
+    height: 250px;
+}
+
+.subVid {
+    width: 400px;
+}
+
+.responsive-iframe {
+    /*position: absolute;*/
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+/*Outcome section*/
+div.outcome {
+    margin: 9px;
+        /*border: 1px solid #ccc;*/
+    width: 203px;
+    float: left;
+}
+
+div.outcome:hover {
+    border: 1px solid #777;
+}
+
+div.outcome img {
+    width: 100%;
+    height: auto;
+}
+
+div.descrip {
+    padding: 15px;
+    text-align: center;
+    min-height: 228px;
 }
