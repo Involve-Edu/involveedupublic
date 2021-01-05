@@ -14,8 +14,21 @@
 
     <link href="css/default.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+
 </head>
 <body>
+
+<div id="header">
+</div>
+<script>
+
+    $(function () {
+        $("#header").load("header.html")
+    });
+</script>
+
 <header>
     <div class="pre-header">
         <div class="container">
@@ -42,7 +55,8 @@
                         <a class="nav-link" href="aboutus.html">ABOUT</a>
                     </li>
                     <li class="dropdown nav-item">
-                        <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-expanded="false">OUR PROGRAMS
+                        <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button"
+                           aria-expanded="false">OUR PROGRAMS
                             <span class="caret"></span></a>
                         <ul class="dropdown-menu" role="menu" style="font-size: 80%">
                             <li class="nav-item"><a class="nav-link" href="programs.html">PROGRAMS</a></li>
@@ -63,10 +77,11 @@
     </nav>
 </header>
 
+
 <main role="main">
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
-<!--            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>-->
+            <!--            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>-->
             <!--            <li data-target="#myCarousel" data-slide-to="1"></li>-->
             <!--            <li data-target="#myCarousel" data-slide-to="2"></li>-->
             <!--            <li data-target="#myCarousel" data-slide-to="3"></li>-->
@@ -98,22 +113,26 @@
             </div>
         </div>
         <div class="row pt-3">
-                <img class="img-fluid progrmImg"  src="img/ourPrograms/offlinePT.jpg" />
-                <img class="img-fluid progrmImg" src="img/ourPrograms/onlinePT.jpg"  >
-                <img class="img-fluid progrmImg" src="img/ourPrograms/PTPLteacherWorkshop-2.jpg" >
+            <img class="img-fluid progrmImg" src="img/ourPrograms/offlinePT.jpg"/>
+            <img class="img-fluid progrmImg" src="img/ourPrograms/onlinePT.jpg">
+            <img class="img-fluid progrmImg" src="img/ourPrograms/PTPLteacherWorkshop-2.jpg">
         </div>
     </div>
     <!--offline peer teaching-->
     <div class="container-fluid goal-section-parent">
         <div class="container ">
             <div class="row">
-                <div class="col-sm-12 col-md-4 mt-2">
-                        <div class="testimonialImage"><img class="progrmImg"  src="img/ourPrograms/offlinePT.jpg" width="210px"
-                                                           height="210px"/></div>
+                <div class="col-sm-12 col-md-4 mt-3">
+                    <div class="testimonialImage"><img class="progrmImg" src="img/ourPrograms/offlinePT.jpg"
+                                                       width="210px"
+                                                       height="210px"/></div>
                 </div>
                 <div class="col-sm-12 col-md-8 mt-3">
-                    <h3>Offline Peer teaching</h3><hr>
-                    <p class="" >Our in school Peer Teaching program prepared students from Grade 7 and above to teach
+                    <h3>Offline Peer teaching</h3>
+                    <hr>
+
+                    <p class="programText">Our in school Peer Teaching program prepared students from Grade 7 and above
+                        to teach
                         their juniors (Grade 4-7). Student Leaders ( senior students) are given training in content and
                         given the resources and tools to create an engaging classroom for their learners. Besides this
                         leadership sessions are conducted with Student Leaders to help them reflect on their learning of
@@ -131,8 +150,10 @@
         <div class="container ">
             <div class="row">
                 <div class="col-sm-12 col-md-8 mt-3">
-                    <h3>Online Peer teaching</h3><hr>
-                    <p class="">With schools being shut during the COVID-19 pandemic, the learning of many of our
+                    <h3>Online Peer teaching</h3>
+                    <hr>
+                    <p class="programText">With schools being shut during the COVID-19 pandemic, the learning of many of
+                        our
                         students came to a complete hault. In order to prevent loss of learning, we decided to start our
                         programs online. At the outset, we ensured that we were able to conenct with all our students
                         and began a simple Learn from Home program, where students received daily activiteis throughs
@@ -140,12 +161,11 @@
                         the confidence to start the Online Peer Teaching program. With the similar structure as our In
                         school peer teaching program, this program focussed on getting students commited to learning
                         everyday and building basic reading fluency and arithmetic competence in them.
-
-
                 </div>
-                <div class="col-sm-12 col-md-4 mt-md-3 mt-sm-2">
-                        <div class="testimonialImage"><img class="progrmImg"  src="img/ourPrograms/onlinePT.jpg" width="210px"
-                                                           height="210px" style="border: 2px solid gray;"/></div>
+                <div class="col-sm-12 col-md-4 mt-md-5 mt-sm-3">
+                    <div class="testimonialImage"><img class="progrmImg" src="img/ourPrograms/onlinePT.jpg"
+                                                       width="210px"
+                                                       height="210px" style="border: 2px solid gray;"/></div>
                 </div>
             </div>
         </div>
@@ -156,19 +176,21 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 col-md-4 mt-2">
-                        <div class="testimonialImage "><img class="progrmImg" src="img/ourPrograms/PTPLteacherWorkshop-2.jpg" width="200px"
-                                                           height="200px"/></div>
+                    <div class="testimonialImage "><img class="progrmImg"
+                                                        src="img/ourPrograms/PTPLteacherWorkshop-2.jpg" width="200px"
+                                                        height="200px"/></div>
                 </div>
                 <div class="col-sm-12 col-md-8 mt-3">
-                    <h3>Peer Learning adoption</h3><hr>
-                    <p class="">Teachers play a pivotal role in our education system. They have the highest engagement
+                    <h3>Peer Learning adoption</h3>
+                    <hr>
+                    <p class="programText">Teachers play a pivotal role in our education system. They have the highest
+                        engagement
                         with students. We believed that if we can leverage our teachers, to make our classrooms more
                         student centric, we could look at a systemic change. With this thought in mind, we created
                         teacher training modules on Peer learning strategies and facilitation. We are partnering with
                         teacher training organizations to conduct these trainings with teachers in government and
                         affordable private schools.
-                        <br><br>To learn more about the program
-                        <span class="peerMore"><a href="#">CLICK HERE</a> </span></p>
+
 
                 </div>
             </div>

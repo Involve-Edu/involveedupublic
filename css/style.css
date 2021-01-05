@@ -7,6 +7,9 @@
     object-fit: cover;
     overflow: hidden;
 }
+.programText{
+    font-size: 120%;
+}
 
 .peerImg{
     border: 2px solid gray;
@@ -139,10 +142,10 @@
 
 /*Impact image gallary sec*/
 div.gallery {
-    margin: 5px;
+    margin: 1px;
     border: 1px solid #ccc;
     float: left;
-    width: 228px;
+    width: 275px;
 }
 
 div.gallery:hover {
@@ -182,7 +185,7 @@ div.desc {
 /*Outcome section*/
 div.outcome {
     margin: 9px;
-    border: 1px solid #ccc;
+        /*border: 1px solid #ccc;*/
     width: 203px;
     float: left;
 }
