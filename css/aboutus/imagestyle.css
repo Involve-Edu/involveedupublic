@@ -1,25 +1,39 @@
+/* our people images style starts from here */
+
+/* *{
+    overflow: hidden !important;
+} */
+.imagedetails {
+    margin-bottom: 20px;
+    box-shadow: 6px 6px 17px -8px rgba(0, 0, 0, 0.75);
+}
+
 .imageborder{
     border: 1px solid black;
     margin-bottom: 20px;
 }
 
-/* .imagespace {
-    margin-top: 20px;
-} */
 .overlay {
   position: absolute;
   top: 0;
   bottom: 0;
   left: 0;
   right: 0;
-  /* width:100%; 
-  height:auto; */
   opacity: 0;
   transition: .5s ease;
   background-color: rgba(0,0,0,0.7);
+  margin-bottom: 20px;
+  margin-left: 15px;
+  margin-right: 15px;
 }
 
-.overlay:hover {
+.imageborder:hover {
+    opacity: 1;
+  }
+
+.imageborder:hover .overlay{
+    top: 0%;
+  left: 0%;
   opacity: 1;
 }
 
@@ -27,7 +41,7 @@
   color: white;
   font-size: 20px;
   position: absolute;
-  top: 50%;
+  top: 40%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
@@ -48,7 +62,7 @@
     text-align: center;
   }
 
-  /* .fadeIn-bottom{
+  .fadeIn-bottom{
     top: 80%;
   }
   
@@ -62,4 +76,32 @@
   
   .fadeIn-right{
     left: 80%;
+  }
+/* our people images style ends here */
+
+
+/* logo style starts from here */
+
+/* .logoimages{
+    margin:0 auto;
+    display: block; 
   } */
+  
+  /* logo style ends here */
+
+  /* Group image style starts from here */
+.groupimage{
+    min-width: 100%;
+    height: auto;
+}
+/* Group image style ends here */
+
+
+/* Our culture style starts here */
+
+.ourculturtext{
+    text-align: justify;
+    text-justify: inter-word;
+    padding-bottom: 20px;
+  }
+  /* Our culture style ends here */
