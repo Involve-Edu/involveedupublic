@@ -207,7 +207,7 @@ button:focus{
   }
   
   .timeline ol li div {
-    width: 74%;
+    width: 70%;
     height: auto !important;
     /* margin: 0 auto 25px; */
     display: flex;
