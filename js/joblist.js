@@ -1,21 +1,10 @@
 "use strict";
 
-// fetch("./data.json")
-//     .then(function(resp){
-//         return resp.json();
-//     })
-//     .then(function(data){
-//         console.log(data);
-//     });
-
-function renderEmp(emp){
-    console.log(emp)
-    var table = document.getElementById("empTable")
-    emp.forEach((empl)=>{
-        // var name = empl.userId;
-        // uId.innerText += name +"\n\n";
-        job.innerText += empl.jobTitle + "\n\n";
-        jobname.innerText += empl.employeeCode + "\n\n";
+function renderJob(emp){
+    console.log(job)
+    job.forEach((joblist)=>{
+        job.innerText += joblist.jobTitle + "\n\n";
+        jobname.innerText += joblist.employeeCode + "\n\n";
         console.log(jobTitle);
     })
 }
@@ -25,5 +14,5 @@ function renderEmp(emp){
 fetch("js/data.json")
     .then(result => result.json())
     .then(data=>
-        renderEmp(data.jobs)
+        renderJob(data.jobs)
     );
