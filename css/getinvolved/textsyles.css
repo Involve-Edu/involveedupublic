@@ -1,0 +1,17 @@
+h3{
+    text-align: center;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+.bunchOfText{
+    /* text-align: justify; */
+    text-align: center;
+    font-size: 16px;
+}
+
+.applylink{
+    font-weight: bold;
+    text-align: center;
+    font-size: 16px;
+}
