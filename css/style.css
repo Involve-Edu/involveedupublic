@@ -232,57 +232,21 @@ div.descrip {
 }
 
 /*Imga gallary*/
-.bstimeslider {
-
-width:500px;
-height:40px;
-background:#ccc;
-position:relative;
-}
-
-.bktibx {
-
-float:left;
-margin:0 40px 0 0 ;
-font-size:18px;
-width:60px;
-display:block;
-background:#000;
-color:#fff;
+.blog .carousel-indicators {
+	left: 0;
+	top: auto;
+    bottom: -40px;
 
 }
 
-#tslshow {
-position:absolute;
-left:0;
-width:1200px;
-
+/* The colour of the indicators */
+.blog .carousel-indicators li {
+    background: #a3a3a3;
+    border-radius: 50%;
+    width: 8px;
+    height: 8px;
 }
 
-#leftArrow {
-
-width:40px;
-height:40px;
-background:#ff0000;
-position:absolute;
-left:0px;
-}
-
-#rightArrow {
-
-width:40px;
-height:40px;
-background:#ff0000;
-position:absolute;
-right:0px;
-}
-
-#viewContainer {
-width:360px;
-height:100%;
-background:#00ff00;
-position:absolute;
-left:50%;
-margin-left:-180px;
-overflow:hidden;
+.blog .carousel-indicators .active {
+background: #707070;
 }
