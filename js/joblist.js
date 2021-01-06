@@ -22,7 +22,7 @@ function renderEmp(emp){
 
 
 
-fetch("./data.json")
+fetch("js/data.json")
     .then(result => result.json())
     .then(data=>
         renderEmp(data.jobs)
