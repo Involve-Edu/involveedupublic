@@ -1,17 +1,15 @@
 "use strict";
 
-function renderJob(emp){
+function renderJob(job){
     console.log(job)
     job.forEach((joblist)=>{
-        job.innerText += joblist.jobTitle + "\n\n";
-        jobname.innerText += joblist.employeeCode + "\n\n";
-        console.log(jobTitle);
+        jobname.innerText += joblist.jobTitle + "\n\n";
+        jobid.innerText += joblist.employeeCode + "\n\n";
+//        console.log(job.jobTitle);
     })
 }
 
-
-
-fetch("js/data.json")
+fetch("./data.json")
     .then(result => result.json())
     .then(data=>
         renderJob(data.jobs)
