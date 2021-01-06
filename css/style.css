@@ -11,6 +11,10 @@
     font-size: 120%;
 }
 
+.programContent{
+    padding: 1rem;
+}
+
 .peerImg{
     border: 2px solid gray;
 }
@@ -184,15 +188,14 @@ div.desc {
 
 /*Outcome section*/
 div.outcome {
-    margin: 9px;
-        /*border: 1px solid #ccc;*/
+
+
+    margin: 6px;
+    /* border: 1px solid #ccc; */
     width: 203px;
     float: left;
 }
 
-div.outcome:hover {
-    border: 1px solid #777;
-}
 
 div.outcome img {
     width: 100%;
@@ -200,7 +203,16 @@ div.outcome img {
 }
 
 div.descrip {
-    padding: 15px;
+    padding: 1em;
     text-align: center;
-    min-height: 228px;
+    min-height: 209px;
+}
+
+.head{
+        color:  #4b87c7;
+
+        min-height: 60px;
+}
+.head h5{
+    font-weight: 800;
 }
