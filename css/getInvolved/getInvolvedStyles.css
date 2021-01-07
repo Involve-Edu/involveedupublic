@@ -1,7 +1,7 @@
 /* table scrollbar style starts from here*/
-.collapse1{
+.listofjob {
 overflow-y:scroll;
-height:345px;
+height:300px;
 }
 /* table scrollbar style ends here*/
 
@@ -21,6 +21,15 @@ h3{
     font-weight: bold;
     text-align: center;
     /*font-size: 16px;*/
+    font-size: 120%;
+}
+
+.applylinks{
+    font-weight: bold;
+    text-align: center;
+    /*font-size: 16px;*/
+    font-size: 120%;
+    margin-top: 20px;
 }
 
 /* Job list table styles starts from here */
@@ -56,6 +65,14 @@ table {
 
 .table th{
     color: #4B87C7;
+}
+
+.table td:hover{
+background-color: #4B87C7;
+}
+
+td{
+border: 1px solid black;
 }
 
 .table td, .table th {
