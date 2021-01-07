@@ -9,7 +9,7 @@ function renderJob(job){
     })
 }
 
-fetch("./data.json")
+fetch("js/data.json")
     .then(result => result.json())
     .then(data=>
         renderJob(data.jobs)

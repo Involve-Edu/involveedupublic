@@ -1,38 +1,44 @@
-.program{
+.program {
     padding-left: 8rem;
     padding-right: 9rem;
 }
+
 .progrmImg {
-    border-radius: 49%;
+    border-radius: 50%;
     margin: 0 auto;
     display: inline;
     width: 240px;
-    height: 210px;
+    height: 240px;
     object-fit: cover;
     overflow: hidden;
 }
-.programText{
+
+.programText {
     font-size: 120%;
 }
 
-.programContent{
+.programContent {
     padding: 1rem;
 }
 
-.peerImg{
+.peerImg {
     border: 2px solid gray;
 }
-.peerAdoption{
+
+.peerAdoption {
     text-align: center;
     padding: 1rem;
 
 }
-.peerAdoption h4{
+
+.peerAdoption h4 {
     font-weight: 800;
 }
-.peerAdoption p{
+
+.peerAdoption p {
     font-size: 120%;
 }
+
 .overlay {
     position: absolute;
     top: 0;
@@ -122,6 +128,10 @@
 
 /* end of hover effect */
 
+.structHeight {
+    height: auto;
+}
+
 /*Stake holders*/
 .circle {
     width: 77%;
@@ -189,6 +199,10 @@ div.desc {
     width: 400px;
 }
 
+.title {
+    text-align: center;
+}
+
 .responsive-iframe {
     /*position: absolute;*/
     top: 0;
@@ -222,19 +236,20 @@ div.descrip {
     min-height: 209px;
 }
 
-.head{
-        color:  #4b87c7;
+.head {
+    color: #4b87c7;
 
-        min-height: 60px;
+    min-height: 60px;
 }
-.head h5{
+
+.head h5 {
     font-weight: 800;
 }
 
 /*Imga gallary*/
 .blog .carousel-indicators {
-	left: 0;
-	top: auto;
+    left: 0;
+    top: auto;
     bottom: -40px;
 
 }
@@ -248,9 +263,15 @@ div.descrip {
 }
 
 .blog .carousel-indicators .active {
-background: #707070;
+    background: #707070;
 }
-.control{
+
+.control {
     text-indent: unset;
-    margin-top:-200px;
+    margin-top: -218px;
 }
+
+.fa {
+    color: #000000;
+}
+
