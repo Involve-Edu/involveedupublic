@@ -1,0 +1,132 @@
+@media screen and (max-width: 1024px) {
+    .imageresponsive {
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .overlay {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        opacity: 0;
+        transition: .5s ease;
+        background-color: rgba(0,0,0,0.7);
+        margin-bottom: 8px;
+        margin-left: 15px;
+        margin-right: 8px;
+      }
+}
+
+@media screen and (max-width: 991px) {
+    .imageresponsive{
+        /* max-width: 100%; */
+        object-fit: cover;
+        height: 200px;
+    }
+
+    .overlay {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        opacity: 0;
+        transition: .5s ease;
+        background-color: rgba(0,0,0,0.7);
+        margin-bottom: 57px;
+        margin-left: 14px;
+        margin-right: 8px;
+      }
+
+      .logoimages img{
+          margin-bottom: 20px;
+      }
+
+      .overlay h3 {
+        color: white;
+        font-size: 20px;
+        position: absolute;
+        top: 35%;
+        left: 50%;
+        -webkit-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        text-align: center;
+        text-transform: uppercase;
+      }
+      
+      .overlay p {
+          color: white;
+          font-size: 12px;
+          position: absolute;
+          top: 63%;
+          left: 50%;
+          -webkit-transform: translate(-50%, -50%);
+          -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+          text-align: center;
+        }
+}
+
+@media screen and (max-width: 767px) {
+    .imageresponsive{
+        /* max-width: 100%; */
+        object-fit: cover;
+        /* width: 50%; */
+        height: 450px;
+        /* margin-bottom: auto; */
+    }
+
+    .imageborder{
+        margin-bottom: 20px;
+    }
+
+    .logoimages{
+        /* margin:auto; */
+        display: block; 
+        text-align: center;
+        object-fit: cover;
+        /* margin-bottom: 15px;     */
+    }
+
+    .overlay {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        opacity: 0;
+        transition: .5s ease;
+        background-color: rgba(0,0,0,0.7);
+        margin-bottom: 19px;
+        margin-left: 14px;
+        margin-right: 7px;
+      }
+
+      .overlay h3 {
+        color: white;
+        font-size: 20px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        -webkit-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        text-align: center;
+        text-transform: uppercase;
+      }
+      
+      .overlay p {
+          color: white;
+          font-size: 12px;
+          position: absolute;
+          top: 63%;
+          left: 50%;
+          -webkit-transform: translate(-50%, -50%);
+          -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+          text-align: center;
+        }
+}
