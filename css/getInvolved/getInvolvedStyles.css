@@ -32,31 +32,6 @@ h3{
     margin-top: 20px;
 }
 
-/* Job list table styles starts from here */
-
-/*.jobList{
-    border-collapse: collapse;
-      width: 100%;
-}
-
-.jobList th, td {
-  text-align: left;
-  padding: 8px;
-  border: 2px solid #dddddd;
-  color: #4B87C7;
-
-}
-
-*//*tr:nth-child(even){background-color: #f2f2f2}*//*
-
-.jobList th {
-  background-color: #4B87C7;
-  color: white;
-}*/
-
-
-
-
 
 table {
     border: 1px solid black;
@@ -64,7 +39,11 @@ table {
 }
 
 .table th{
-    color: #4B87C7;
+    color: white;
+    background-color: #4272a5;
+    padding-top: 25px;
+    padding-bottom: 25px;
+
 }
 
 .table td:hover{
