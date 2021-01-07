@@ -1,29 +1,16 @@
 "use strict";
 
-// fetch("./data.json")
-//     .then(function(resp){
-//         return resp.json();
-//     })
-//     .then(function(data){
-//         console.log(data);
-//     });
-
-function renderEmp(emp){
-    console.log(emp)
-    var table = document.getElementById("empTable")
-    emp.forEach((empl)=>{
-        // var name = empl.userId;
-        // uId.innerText += name +"\n\n";
-        job.innerText += empl.jobTitle + "\n\n";
-        jobname.innerText += empl.employeeCode + "\n\n";
-        console.log(jobTitle);
+function renderJob(job){
+    console.log(job)
+    job.forEach((joblist)=>{
+        jobname.innerText += joblist.jobTitle + "\n\n";
+        jobid.innerText += joblist.employeeCode + "\n\n";
+//        console.log(job.jobTitle);
     })
 }
 
-
-
-fetch("js/data.json")
+fetch("./data.json")
     .then(result => result.json())
     .then(data=>
-        renderEmp(data.jobs)
+        renderJob(data.jobs)
     );
