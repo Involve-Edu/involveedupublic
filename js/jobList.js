@@ -4,9 +4,9 @@ function renderJob(job) {
     console.log(job); //this displays the json
     console.log(job.length)
     if (job.length < 1) {
-        document.getElementById("check").style.display="none"
-        document.getElementById("job").style.display="block"
-        console.log("no jobs")
+        document.getElementById("check").style.display="none";
+        document.getElementById("job").style.display="block";
+        console.log("no jobs");
 
     } else {
         document.getElementById("check").style.display="block"
