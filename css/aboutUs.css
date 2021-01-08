@@ -593,6 +593,19 @@ font-weight:700;
 
 @media screen and (max-width: 499px) {
 
+.overlay h3 {
+        color: white;
+        font-size: 20px;
+        position: absolute;
+        top: 35%;
+        left: 50%;
+        -webkit-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        text-align: center;
+        text-transform: uppercase;
+      }
+
 .ps-timeline-sec .container ol.ps-timeline {
     margin: 130px 0 !important;
     border-left: 2px solid #6699d0;
