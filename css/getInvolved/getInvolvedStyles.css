@@ -1,7 +1,7 @@
 /* table scrollbar style starts from here*/
-.collapse1{
+.listofjob {
 overflow-y:scroll;
-height:345px;
+height:300px;
 }
 /* table scrollbar style ends here*/
 
@@ -21,32 +21,16 @@ h3{
     font-weight: bold;
     text-align: center;
     /*font-size: 16px;*/
+    font-size: 120%;
 }
 
-/* Job list table styles starts from here */
-
-/*.jobList{
-    border-collapse: collapse;
-      width: 100%;
+.applylinks{
+    font-weight: bold;
+    text-align: center;
+    /*font-size: 16px;*/
+    font-size: 120%;
+    margin-top: 20px;
 }
-
-.jobList th, td {
-  text-align: left;
-  padding: 8px;
-  border: 2px solid #dddddd;
-  color: #4B87C7;
-
-}
-
-*//*tr:nth-child(even){background-color: #f2f2f2}*//*
-
-.jobList th {
-  background-color: #4B87C7;
-  color: white;
-}*/
-
-
-
 
 
 table {
@@ -55,7 +39,19 @@ table {
 }
 
 .table th{
-    color: #4B87C7;
+    color: white;
+    background-color: #4272a5;
+    padding-top: 25px;
+    padding-bottom: 25px;
+
+}
+
+.table td:hover{
+background-color: #4B87C7;
+}
+
+td{
+border: 1px solid black;
 }
 
 .table td, .table th {
