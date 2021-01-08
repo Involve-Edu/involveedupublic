@@ -17,7 +17,9 @@ function renderJob(job) {
      for (var i = 0; i < job.length; i++) {
          var Result = job[i];
          /*console.log(Object.keys(Result));
-         console.log(Object.values(Result));*/
+         console.log(Object.values(Result));
+         console.log(Object.keys(Result));
+         console.log(Object.values(Result))*/
 
          /*if( job.length >0 ){*/
 
