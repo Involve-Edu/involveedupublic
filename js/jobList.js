@@ -4,7 +4,7 @@ function renderJob(job) {
      console.log(job); //this displays the json
 
      var jobtable = document.getElementById('tablejob');
-         console.log(jobtable);
+         /*console.log(jobtable);*/
          jobtable.className = 'table table-striped';
 
      var jobtablehead1 = document.createElement('th');
@@ -16,6 +16,8 @@ function renderJob(job) {
 
      for (var i = 0; i < job.length; i++) {
          var Result = job[i];
+         /*console.log(Object.keys(Result));
+         console.log(Object.values(Result));*/
 
          /*if( job.length >0 ){*/
 

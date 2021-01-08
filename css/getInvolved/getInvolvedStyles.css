@@ -1,8 +1,8 @@
 /* table scrollbar style starts from here*/
-.listofjob {
+/*.listofjob {
 overflow-y:scroll;
 height:300px;
-}
+}*/
 /* table scrollbar style ends here*/
 
 h3{
@@ -47,7 +47,7 @@ table {
 }
 
 .table td:hover{
-background-color: #4B87C7;
+background-color: #dadee2;
 }
 
 td{
