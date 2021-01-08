@@ -23,9 +23,9 @@
     padding: 1rem;
 }
 
-.peerImg {
+/*.peerImg {
     border: 2px solid gray;
-}
+}*/
 
 .peerAdoption {
     text-align: center;
@@ -308,3 +308,70 @@ div.descrip {
     margin-top: -218px;
 }
 
+.plAdoptionImage {
+    padding: 5px !important;
+    border-radius: 50% !important;
+}
+
+.olpTeaching {
+        margin-top: 50px;
+        padding: 0px;
+        margin-left: -18px;
+    }
+
+
+/* Responsive code starts from here */
+
+@media screen and (max-width: 991px) {
+    .ofpTeaching {
+        margin-left: -25px;
+        margin-top: 50px;
+    }
+
+    .olpTeaching {
+        margin-left: -40px;
+        margin-top: 60px;
+        padding: 0px;
+        margin-left: -18px;
+    }
+
+    .plAdoption{
+    width:200px;
+    height: 200px;
+    }
+}
+@media screen and (max-width: 767px) {
+    .progrmImg {
+        border-radius: 50%;
+        margin: 0 auto;
+        width: 150px;
+        height: 150px;
+        object-fit: cover;
+        overflow: hidden;
+    }
+
+    .olpTeaching {
+        margin-top: -67rem;
+        padding: 0px;
+        margin-left: -18px;
+    }
+    .onlinePeerContent {
+    padding-bottom: 10rem;
+}
+
+
+    .onlinePeerTexts {
+    top: 175px;
+    }
+}
+
+@media screen and (max-width: 424px) {
+    .olpTeaching {
+        margin-bottom: 150px;
+        padding: 0px;
+        margin-left: -18px;
+    }
+}
+
+
+/* Responsive code ends here */
