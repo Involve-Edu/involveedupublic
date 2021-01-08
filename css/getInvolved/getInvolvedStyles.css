@@ -58,3 +58,9 @@ border: 1px solid black;
 border: 1px solid #4B87C7;
 }
 /* Job list table styles ends here */
+#check{
+    display: none;
+}
+#job{
+    display: none;
+}
