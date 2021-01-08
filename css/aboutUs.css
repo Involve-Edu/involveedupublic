@@ -59,6 +59,7 @@
   padding-top: 0.05rem;
   top: -16.5px;
   left: 50%;
+  font-weight: 700;
 }
 .ps-timeline-sec .container ol.ps-timeline li span.ps-sp-top:before {
   content: "";
