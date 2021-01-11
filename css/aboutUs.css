@@ -231,8 +231,7 @@ font-weight:700;
 /* Our culture style starts here */
 
 .ourculturtext{
-    text-align: justify;
-    text-justify: inter-word;
+    text-align: center;
     padding-bottom: 20px;
   }
   /* Our culture style ends here */
@@ -317,7 +316,7 @@ font-weight:700;
 
       .overlay h3 {
         color: white;
-        font-size: 20px;
+        font-size: 14px;
         position: absolute;
         top: 35%;
         left: 50%;
@@ -401,7 +400,7 @@ font-weight:700;
 
       .overlay h3 {
         color: white;
-        font-size: 20px;
+        font-size: 14px;
         position: absolute;
         top: 50%;
         left: 50%;
@@ -596,7 +595,7 @@ font-weight:700;
 
 .overlay h3 {
         color: white;
-        font-size: 20px;
+        font-size: 14px;
         position: absolute;
         top: 35%;
         left: 50%;
