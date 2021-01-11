@@ -57,8 +57,27 @@
 
 }
 
-.col-sm-6 overlay {
+
+.col-sm-6 .overlay {
     left: 0em;
+}
+
+.col-md-4 .overlay {
+    left: 2em;
+}
+@media screen and (max-width: 991px){
+    .col-md-4 .overlay{
+        left: 0em;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .col-sm-6 .overlay {
+        width: 150px;
+        height: 150px;
+        left: 0em;
+    }
+
 }
 
 .model:hover .overlay {
@@ -93,6 +112,11 @@
 /*modal */
 .model {
     padding-right: 7em;
+}
+
+.modelText {
+    text-align: center;
+    font-size: 120%;
 }
 
 .imgHover {
@@ -227,7 +251,8 @@ div.desc {
     padding: 15px;
     text-align: center;
 }
-.arrowColor{
+
+.arrowColor {
     color: #4b87c7;
 }
 
