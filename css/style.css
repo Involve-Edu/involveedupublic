@@ -11,7 +11,8 @@
     object-fit: cover;
     overflow: hidden;
 }
-.col-sm-12 .progrmImg{
+
+.col-sm-12 .progrmImg {
     text-align: center;
 }
 
@@ -226,6 +227,9 @@ div.desc {
     padding: 15px;
     text-align: center;
 }
+.arrowColor{
+    color: #4b87c7;
+}
 
 /*Video*/
 .video {
@@ -314,10 +318,10 @@ div.descrip {
 }
 
 .olpTeaching {
-        margin-top: 50px;
-        padding: 0px;
-        margin-left: -18px;
-    }
+    margin-top: 50px;
+    padding: 0px;
+    margin-left: -18px;
+}
 
 
 /* Responsive code starts from here */
@@ -335,11 +339,12 @@ div.descrip {
         margin-left: -18px;
     }
 
-    .plAdoption{
-    width:200px;
-    height: 200px;
+    .plAdoption {
+        width: 200px;
+        height: 200px;
     }
 }
+
 @media screen and (max-width: 767px) {
     .progrmImg {
         border-radius: 50%;
@@ -355,13 +360,14 @@ div.descrip {
         padding: 0px;
         margin-left: -18px;
     }
+
     .onlinePeerContent {
-    padding-bottom: 10rem;
-}
+        padding-bottom: 10rem;
+    }
 
 
     .onlinePeerTexts {
-    top: 175px;
+        top: 175px;
     }
 }
 
@@ -375,3 +381,14 @@ div.descrip {
 
 
 /* Responsive code ends here */
+
+/*Structures section*/
+
+.yearBtn {
+    margin-left: 18px;
+    padding: 0.25rem;
+}
+
+.yearHeight {
+    min-height: 15rem;
+}
