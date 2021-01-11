@@ -167,7 +167,7 @@
     text-align: center;
     border: 1px solid gray;
     font-weight: bold;
-    margin: 13px 44px 12px auto;
+    margin: 14px 75px 12px auto;
 }
 
 /*drop down*/
@@ -280,7 +280,7 @@ div.descrip {
 .head {
     color: #4b87c7;
 
-    min-height: 60px;
+    min-height: 3rem;
 }
 
 .head h5 {
