@@ -442,7 +442,9 @@ a:hover {
     }
 
 }
-.nav-item .current{
+
+.nav-item .current {
     text-decoration: underline;
     text-decoration-color: #f7ca44;
+    text-decoration-thickness: 0.15rem;
 }
