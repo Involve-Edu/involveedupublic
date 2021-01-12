@@ -148,11 +148,9 @@ font-weight:700;
 
 /* our people image styles starts from here */
 
-
 .imageresponsive{
   object-fit: cover;
 }
-
 
 .imageborder{
     border: 1px solid black;
@@ -285,6 +283,12 @@ font-weight:700;
   text-transform: uppercase;
 }
 
+.ps-timeline-sec .container ol.ps-timeline {
+    margin: 18rem 0;
+    padding: 0;
+    border-top: 2px solid #6699d0;
+    list-style: none;
+    }
       .ps-timeline-sec .container ol.ps-timeline li .milestonealign2-4-6 {
         margin-left: -10px;
         }
