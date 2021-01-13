@@ -8,6 +8,10 @@
   position: relative;
 }
 
+.mb70{
+  margin-bottom: 70px;
+}
+
 .ps-timeline-sec .container ol:before {
   background: #6699d0;
   content: "";
