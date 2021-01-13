@@ -1,5 +1,9 @@
 /* New Milestone UI Css starts here */
-
+*{
+  /* overflow: hidden; */
+  Overflow-x:hidden;
+  /* Overflow-y:hidden; */
+}
 .ps-timeline-sec {
   position: relative;
 }
@@ -176,7 +180,7 @@ font-weight:700;
 .imageborder{
     width: 202px;
     margin-left: 20px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     /* margin-bottom: 20px; */
     /* margin-right: 43px; */
 }
@@ -360,7 +364,7 @@ font-weight:700;
       }
 
       .imageborder {
-        border: 1px solid black;
+        /* border: 1px solid black; */
         /* margin-bottom: 20px; */
         margin-right: -17px;
     }
@@ -735,6 +739,9 @@ font-weight:700;
           margin-bottom: 70px;
           font-size: 16px;
       }
+      .mt-7{
+        margin-top: -7em !important;
+      }
 
       .ps-timeline-sec .container ol.ps-timeline li .milestone-text-2-4-6 {
           text-align: left;
@@ -762,7 +769,9 @@ font-weight:700;
         margin-left: -30px;
         margin-top: -35px !important;
       }
-
+      .ml-7{
+        margin-left: -5em;
+      }
 
     .ps-timeline-sec .container ol.ps-timeline li .milestone-text-1-3-5 {
           text-align: left;
@@ -815,6 +824,18 @@ font-weight:700;
             margin-bottom: 10px;
             margin-left: 15px;
             font-size: 16px;
+      }
+      .mt-17{
+        margin-top: -17em !important;
+      }
+      .mt-11{
+        margin-top: -11em !important;
+      }
+      .mt-9{
+        margin-top: -9em !important;
+      }
+      .mt-16{
+        margin-top: -16em !important;
       }
 }
 

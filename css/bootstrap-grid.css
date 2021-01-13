@@ -14,7 +14,11 @@ html {
 *::after {
   box-sizing: inherit;
 }
-
+*{
+  /* overflow: hidden; */
+  Overflow-x:hidden;
+  /* Overflow-y:hidden; */
+}
 .container {
   width: 100%;
   padding-right: 15px;

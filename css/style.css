@@ -1,7 +1,11 @@
 .program {
     text-align: center;
 }
-
+*{
+    /* overflow: hidden; */
+    Overflow-x:hidden;
+    /* Overflow-y:hidden; */
+  }
 .rightarrow{
     margin-left: -34em !important;
     margin-top: 8em !important;
