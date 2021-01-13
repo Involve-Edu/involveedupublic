@@ -105,6 +105,9 @@ a:hover {
     margin: 0 auto;
 }
 
+.mt35{
+    margin-top: 35px !important;
+}
 .section-title {
     margin: 20px 0px;
     position: relative;
