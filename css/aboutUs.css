@@ -172,9 +172,14 @@ font-weight:700;
 .imageborder{
     width: 202px;
     margin-left: 20px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     /* margin-bottom: 20px; */
     /* margin-right: 43px; */
+}
+
+.employDis {
+  margin-top:10px; 
+  text-align: center;
 }
 
 .overlay {
@@ -186,7 +191,7 @@ font-weight:700;
   opacity: 0;
   transition: .5s ease;
   background-color: rgba(0,0,0,0.7);
-  margin-bottom: 58px;
+  margin-bottom: 88px;
   margin-left: 36px;
   margin-right: 58px;
   width: 202px;
