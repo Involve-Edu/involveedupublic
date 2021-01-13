@@ -1,9 +1,5 @@
 /* New Milestone UI Css starts here */
-*{
-  /* overflow: hidden; */
-  Overflow-x:hidden;
-  /* Overflow-y:hidden; */
-}
+
 .ps-timeline-sec {
   position: relative;
 }
@@ -185,6 +181,11 @@ font-weight:700;
     /* margin-right: 43px; */
 }
 
+.employDis {
+  margin-top:10px; 
+  text-align: center;
+}
+
 .overlay {
   position: absolute;
   top: 0;
@@ -194,7 +195,7 @@ font-weight:700;
   opacity: 0;
   transition: .5s ease;
   background-color: rgba(0,0,0,0.7);
-  margin-bottom: 58px;
+  margin-bottom: 88px;
   margin-left: 36px;
   margin-right: 58px;
   width: 202px;

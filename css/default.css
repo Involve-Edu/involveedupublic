@@ -4,11 +4,6 @@ body {
     font-size: 90%;
     min-width: 370px;
 }
-*{
-    /* overflow: hidden; */
-    Overflow-x:hidden;
-    /* Overflow-y:hidden; */
-  }
 
 .navbar {
     font-size: 80%;
