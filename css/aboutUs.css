@@ -165,10 +165,17 @@ font-weight:700;
   object-fit: cover;
 }
 
+.custimgsize{
+  height: 200px !important;
+  width: 200px !important;
+}
+
 .imageborder{
+    width: 202px;
+    margin-left: 20px;
     border: 1px solid black;
     /* margin-bottom: 20px; */
-    margin-right: 43px;
+    /* margin-right: 43px; */
 }
 
 .overlay {
@@ -181,8 +188,9 @@ font-weight:700;
   transition: .5s ease;
   background-color: rgba(0,0,0,0.7);
   margin-bottom: 58px;
-  margin-left: 14px;
+  margin-left: 36px;
   margin-right: 58px;
+  width: 202px;
 }
 
 .imageborder:hover {
@@ -329,6 +337,10 @@ font-weight:700;
         object-fit: cover;
         /*width: 155px;*/
     }
+    .custimgsize {
+      height: 150px !important;
+      width: 150px !important;
+  }
 
     .overlay {
         position: absolute;
@@ -666,13 +678,26 @@ font-weight:700;
       }
 
     .ps-timeline-sec .container ol.ps-timeline {
-        margin: 130px 0 !important;
+        /* margin: 130px 0 !important;
         border-left: 2px solid #6699d0;
         padding-left: 0 !important;
         padding-top: 120px !important;
         border-top: 0 !important;
+        margin-left: 100px !important; */
+        margin: 35px 0 !important;
+        border-left: 2px solid #6699d0;
+        padding-left: 0 !important;
+        padding-top: 80px !important;
+        border-top: 0 !important;
         margin-left: 100px !important;
         }
+    
+    .ml-80{
+      margin-left: -80px;
+    }
+    .ml20{
+      margin-left: 20px;
+    }
 
     .ps-timeline-sec .container ol.ps-timeline li .milestonealign1-3-5 {
         text-align: left !important;
