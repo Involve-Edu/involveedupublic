@@ -2,6 +2,16 @@
     text-align: center;
 }
 
+.rightarrow{
+    margin-left: -34em !important;
+    margin-top: 8em !important;
+}
+
+.leftarrow{
+    margin-left: 34em !important;
+    margin-top: 8em !important;
+}
+
 .progrmImg {
     border-radius: 50%;
     margin: 0 auto;

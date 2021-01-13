@@ -7,6 +7,10 @@
   position: relative;
 }
 
+.mb70{
+  margin-bottom: 70px;
+}
+
 .ps-timeline-sec .container ol:before {
   background: #6699d0;
   content: "";
@@ -172,8 +176,12 @@ font-weight:700;
 .imageborder{
     width: 202px;
     margin-left: 20px;
+<<<<<<< HEAD
     /* border: 1px solid black; */
     /* margin-bottom: 20px; */
+=======
+    border: 1px solid black;
+>>>>>>> 11b9e7de309ba837fef6c99a8987a92b3b058f19
     /* margin-right: 43px; */
 }
 
