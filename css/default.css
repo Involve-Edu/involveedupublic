@@ -8,6 +8,7 @@ body {
 .navbar {
     font-size: 80%;
     font-weight: 600;
+    display: block;
 }
 
 .bg-blue {
@@ -270,6 +271,8 @@ a:hover {
 
 .social-media-section {
     float: Right;
+    display: inline;
+    padding-top: 4px;
 }
 
 .contact-number {

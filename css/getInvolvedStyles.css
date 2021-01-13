@@ -64,3 +64,12 @@ border: 1px solid #4B87C7;
 #job{
     display: none;
 }
+.mb40{
+    margin-bottom: 40px;
+}
+
+@media only screen and (max-width: 499px){
+    .mb40 {
+        margin-bottom: 0px !important;
+    }
+}
