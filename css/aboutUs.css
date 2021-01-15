@@ -1,5 +1,8 @@
 /* New Milestone UI Css starts here */
-
+body{
+  overflow-x: hidden;
+  /* overflow-y: hidden; */
+}
 .ps-timeline-sec {
   position: relative;
 }
@@ -176,8 +179,8 @@ font-weight:700;
 .imageborder{
     width: 202px;
     margin-left: 20px;
-    /* border: 1px solid black; */
-    /* margin-bottom: 20px; */
+    border: 1px solid black;
+    margin-bottom: 5px;
     /* margin-right: 43px; */
 }
 
@@ -195,7 +198,7 @@ font-weight:700;
   opacity: 0;
   transition: .5s ease;
   background-color: rgba(0,0,0,0.7);
-  margin-bottom: 88px;
+  margin-bottom: 58px;
   margin-left: 36px;
   margin-right: 58px;
   width: 202px;
