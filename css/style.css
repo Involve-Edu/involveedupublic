@@ -1,8 +1,7 @@
 .program {
     text-align: center;
 }
-
-.rightarrow{
+htarrow{
     margin-left: -34em !important;
     margin-top: 8em !important;
 }
@@ -92,6 +91,12 @@
 
 .model:hover .overlay {
     opacity: 1;
+}
+
+.fa fa-mobile-phone {
+    font-size:23px;
+     vertical-align:sub; 
+     padding-top: 1px;
 }
 
 
