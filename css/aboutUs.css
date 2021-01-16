@@ -244,13 +244,15 @@ font-weight:700;
 /* logo style starts from here */
 
 .logoimages{
-  margin:auto;
-    display: block;
+    display: flex;
     text-align: center;
+    
   }
+
   .logoImg{
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
+    margin: 20px;
     justify-content: center;
   }
 
