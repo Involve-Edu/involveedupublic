@@ -353,6 +353,12 @@ a:hover {
     color: orange;
 }
 
+.material-icons{
+    font-size:30px;
+     vertical-align:sub;
+      color:rgb(255, 255, 255);
+  }
+
 @media screen and (min-width: 992px) {
     .section-title-text {
         font-size: 150%;

@@ -184,7 +184,7 @@ font-weight:700;
 }
 
 .employDis {
-  margin-top:10px; 
+  /* margin-top: 10px;  */
   text-align: center;
 }
 
@@ -197,7 +197,8 @@ font-weight:700;
   opacity: 0;
   transition: .5s ease;
   background-color: rgba(0,0,0,0.7);
-  margin-bottom: 65px;
+
+  margin-bottom: 57px;
   margin-left: 36px;
   margin-right: 58px;
   width: 202px;
@@ -216,7 +217,8 @@ font-weight:700;
 .overlay h3 {
   color: white;
   font-size: 15px;
-  position: absolute;
+  position:absolute;
+  
   top: 50%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
@@ -245,6 +247,17 @@ font-weight:700;
   margin:auto;
     display: block;
     text-align: center;
+  }
+  .logoImg{
+    width: 300px;
+    height: 300px;
+    justify-content: center;
+  }
+
+  .material-icons{
+    font-size:30px;
+     vertical-align:sub;
+      color:rgb(255, 255, 255);
   }
 
   /* logo style ends here */
@@ -361,7 +374,7 @@ font-weight:700;
         opacity: 0;
         transition: .5s ease;
         background-color: rgba(0,0,0,0.7);
-        margin-bottom: 57px;
+        margin-bottom: 50px;
         margin-left: 14px;
         margin-right: -2px;
       }
