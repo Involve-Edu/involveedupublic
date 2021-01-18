@@ -28,6 +28,9 @@
 .programText {
     font-size: 120%;
 }
+.programTextR {
+    font-size: 25px;
+}
 
 .programContent {
     padding: 1rem;
@@ -192,7 +195,7 @@
 /* end of hover effect */
 
 .structHeight {
-    height: auto;
+    height: 350px;
 }
 
 /*Stake holders*/
@@ -219,8 +222,9 @@
 }
 
 .impactHead {
-    font-size: 10px;
-    font-weight: 800;
+    font-size: 12px;
+    font-weight: 900;
+    text-decoration-style: solid;    
 }
 
 .impactSection {

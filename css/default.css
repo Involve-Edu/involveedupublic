@@ -163,11 +163,17 @@ a:hover {
 }
 
 .skill-section-bg3 {
-    background-color: #dea184;
+    background-color: #eee675;
+}
+.skill-section-bg3a {
+    background-color:#dea184;
 }
 
 .skill-section-bg4 {
     background-color: #63c499;
+}
+.skill-section-bg5 {
+    background-color: #e68af8;
 }
 
 .skill-section-title {
