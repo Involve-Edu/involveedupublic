@@ -168,6 +168,8 @@ font-weight:700;
 /* our people image styles starts from here */
 
 .imageresponsive{
+  width: 200px;
+  height: 200px;
   object-fit: cover;
 }
 
@@ -184,7 +186,7 @@ font-weight:700;
 }
 
 .employDis {
-  /* margin-top: 10px;  */
+  margin-top: 10px; 
   text-align: center;
 }
 
@@ -197,12 +199,13 @@ font-weight:700;
   opacity: 0;
   transition: .5s ease;
   background-color: rgba(0,0,0,0.7);
-
   margin-bottom: 57px;
   margin-left: 36px;
   margin-right: 58px;
-  width: 202px;
+  width: 200px;
+  height: 200px;
 }
+
 
 .imageborder:hover {
     opacity: 1;
@@ -789,6 +792,7 @@ font-weight:700;
       }
       .ml-7{
         margin-left: -5em;
+        text-align: center;
       }
       
 
@@ -856,6 +860,11 @@ font-weight:700;
       .mt-16{
         margin-top: -16em !important;
       }
+
+      
 }
+
+
+
 
 /* Responsive works ends here */
