@@ -111,6 +111,10 @@
 
 
 /* peer teaching */
+html,body{
+    overflow-x: hidden;
+}
+
 .peerMore {
     font-weight: bold;
 }
