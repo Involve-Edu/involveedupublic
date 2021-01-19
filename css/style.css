@@ -1,3 +1,6 @@
+/* *{
+    overflow-x:hidden;
+} */
 .program {
     text-align: center;
 }
@@ -82,7 +85,11 @@
         left: 0em;
     }
 }
-
+@media screen and (max-width: 375px){
+    .ml4{
+        margin-left: 4em;
+    }
+}
 @media screen and (max-width: 767px) {
     .col-sm-6 .overlay {
         width: 150px;
