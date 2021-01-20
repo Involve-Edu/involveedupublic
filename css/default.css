@@ -405,7 +405,7 @@ a:hover {
      vertical-align:sub;
       color:rgb(255, 255, 255);
   }
-
+  
 @media screen and (min-width: 992px) {
     .section-title-text {
         font-size: 150%;
@@ -442,6 +442,14 @@ a:hover {
         margin: 0;
         position: absolute;
         top: 20%;
+    }
+    .dropbtn {
+        font-size: 11px;
+        font-weight: 600;
+        display: block;
+        color: gray;
+        padding: 0px 10px 0 0px;
+        border: none;
     }
 }
 
@@ -500,6 +508,14 @@ a:hover {
         height: 30px;
         width: 30px;
     }
+    .dropbtn {
+        font-size: 11px;
+        font-weight: 600;
+        display: block;
+        color: gray;
+        padding: 0px 10px 0 0px;
+        border: none;
+    }
   
 
 }
@@ -508,4 +524,35 @@ a:hover {
     text-decoration: underline;
     text-decoration-color: #f7ca44;
     text-decoration-thickness: 0.15rem;
+}
+
+@media screen and (max-width: 375px) {
+    .dropbtn {
+        font-size: 12px;
+        font-weight: 600;
+        display: block;
+        color: gray;
+        padding: 0px 10px 0 0px;
+        border: none;
+    }
+}
+@media only screen and (max-width: 499px){
+    .dropbtn {
+        font-size: 11px;
+        font-weight: 600;
+        display: block;
+        color: gray;
+        padding: 0px 10px 0 0px;
+        border: none;
+    }
+}
+@media screen and (min-width: 768px){
+    .dropbtn {
+        font-size: 11px;
+        font-weight: 600;
+        display: block;
+        color: gray;
+        padding: 8px 3px 0 3px;
+        border: none;
+    }
 }
