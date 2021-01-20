@@ -132,7 +132,7 @@ a:hover {
     min-height: 400px;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url('/img/section-bg1.jpg');
+    background-image: url('../img/section-bg1.jpg');
 }
 
 .skill-section {
@@ -201,7 +201,7 @@ a:hover {
     min-height: 400px;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url('/img/mentorsbg.jpg');
+    background-image: url('../img/mentorsbg.jpg');
 }
 
 .mentors-section-title {
