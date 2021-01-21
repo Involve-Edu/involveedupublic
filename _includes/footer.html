@@ -1,0 +1,37 @@
+<footer class="page-footer">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <h5>Contact Us</h5>
+                <p>+91-7305663905</p>
+                <p>Muththalamman Koil St, Nallan Kuppam, <br />West Mambalam
+                    Chennai, <br />Tamil Nadu , India<br />PIN 600036</p>
+                <h5>We're on Social Media</h5>
+                <div>
+                    {% for item in site.data.social-media %}
+                        <a href="{{item.link}}" class="fa {{item.icon}}" target="_blank"></a>
+                    {% endfor %}
+                </div>
+            </div>
+            <div class="col ">
+                <h5>Subscribe to our News Letter</h5>
+                <a class="btn custom-btn mb-3" target="_blank" href="https://forms.gle/rfystmoqtqEuzXwU6">Subscribe</a>
+                <h5>Links</h5>
+                <ul>
+                    <li><a href="about-us">ABOUT US</a></li>
+                    <li><a href="programs">OUR PROGRAMS</a></li>
+                    <li><a href="resources">RESOURCES</a></li>
+                    <li><a href="get-involved">GET INVOLVED</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="footer-copyright mt-4">
+        <div class="container">
+            © 2020 Involve Learning Solutions Foundation
+        </div>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>

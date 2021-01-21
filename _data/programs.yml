@@ -1,0 +1,54 @@
+banner:
+  img: assets/img/ourPrograms/OurProgramHeader.png  
+
+our_programs:
+  blurb: >
+    Peer based learning is a pedagogical practice 
+    that improves ownership and investment in learning among 
+    students. When students teach and learn from their peers, 
+    on one hand they develop better clarity about the content 
+    being taught, while on the other hand they develop skills 
+    like collaboration, problem solving and become stronger 
+    communicators. It also create a culture of students learning 
+    from each other and reduces dependency on teachers.
+
+peer_teaching:
+  offline:
+    title: Offline Peer teaching
+    img: assets/img/ourPrograms/offlinePT-min.jpg
+    blurb: >
+      Our in-school Peer Teaching program prepares students from Grade 7 and above to teach their juniors (Grade 4-7). Student Leaders ( SLs; senior students) are given content training and the resources and tools to create an engaging classroom for their learners. Additionally, leadership sessions help Student Leaders build their knowledge and reflection sessions are conducted to help them reflect on their learning of skills and mindsets.
+    learn_more_link: peer-teaching
+    support_link: 
+  
+  online:
+    title: Online Peer teaching
+    img: assets/img/ourPrograms/onlinePT-min.jpg
+    blurb: >
+      With schools being shut during the COVID-19 pandemic, 
+      the learning of many of our students came to a complete hault. In order to prevent loss of learning, 
+      we decided to move our program online. We started the WhatsApp based Learn from Home program to engage students through activities and projects.
+      The Online Peer Teaching program was also launched where student groups teach and learn from each other through Google Meet/ Zoom/ WhatsApp calls or regualr calls. 
+      The core purpose of this program, besides the continuous learning was ensuring social and emotional well- being of the students and engaging them in a productive manner during the pandemic.
+      In the next year, we aspire to reach 1000 students through this program.
+  
+innovation_programs:
+  - title: Peer Learning Adoption
+    blurb: >
+      A program designed to create Peer Learning spaces in classrooms. 
+      We work with teachers to incorporate Peer Learning methods in their classroom 
+      instruction with the goal of improving mastery in academics and building collaborative 
+      classroom culture.
+    img: assets/img/ourPrograms/PTPLteacherWorkshop-2-min.jpg
+  
+  - title: Building skills through entrepreneurship
+    blurb: > 
+      A pioneering experiential entrepreneurship program designed to 
+      create entrepreneurial mindset in high school students. 
+      Students learn about the skills required for entrepreneurship 
+      and get opportunities to practice them through creating and 
+      pitching business models.
+    img: assets/img/ourPrograms/innovation2.png
+
+get_in_touch_link: 
+get_in_touch_blurb: Get in touch with our team to know more about these programs.
