@@ -1621,7 +1621,7 @@ body{
     position: absolute;
     top: 0;
     bottom: 0;
-    left: 2em;
+    left: -0.75em;
     right: 0;
     height: 200px;
     width: 200px;
@@ -1632,14 +1632,10 @@ body{
 
 }
 
-
-.col-sm-6 .overlay {
-    left: 0em;
+.imageborder .overlay {
+    border-radius: 0%;
 }
 
-.col-md-4 .overlay {
-    left: 2em;
-}
 @media screen and (max-width: 991px){
     .col-md-4 .overlay{
         left: 0em;
