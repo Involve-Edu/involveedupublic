@@ -15,7 +15,7 @@ layout: default
             <div class="col">
                 <div class="section-title">
                     <img class="img-fluid" src='assets/img/Title-BG.png'/>
-                    <div class="section-title-text">{{site.data.peer-teaching.overview.title}}</div>
+                    <div class="section-title-text text-uppercase">{{site.data.peer-teaching.overview.title}}</div>
                 </div>
             </div>
         </div>

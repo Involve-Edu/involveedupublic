@@ -41,13 +41,13 @@ layout: default
                     <p class="programText">
                         To learn more about the program
                         <span class="peerMore">
-                            <a href="https://drive.google.com/file/d/1SRshEWt4S4gY43s4Jo_xs3LE_2koV__K/view?usp=sharing">CLICK HERE</a>
+                            <a href="{{site.data.programs.peer_teaching.offline.learn_more_link}}" target="_blank">CLICK HERE</a>
                         </span>
                     </p>
                     <p class="programText">
                         Support the in-school program by adopting a school. To know more
                         <span class="peerMore">
-                            <a href="https://drive.google.com/file/d/1SRshEWt4S4gY43s4Jo_xs3LE_2koV__K/view?usp=sharing" target="_blank">CLICK HERE</a> 
+                            <a href="{{site.data.programs.peer_teaching.offline.support_link}}" target="_blank">CLICK HERE</a> 
                         </span>
                     </p>
                 </div>
