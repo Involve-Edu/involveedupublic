@@ -15,7 +15,7 @@ layout: default
             <div class="col">
                 <div class="section-title">
                     <img class="img-fluid" src='assets/img/Title-BG.png'/>
-                    <div class="section-title-text">Our Programs</div>
+                    <div class="section-title-text">OUR PROGRAMS</div>
                 </div>
             </div>
         </div>
@@ -41,7 +41,7 @@ layout: default
                     <p class="programText">
                         To learn more about the program
                         <span class="peerMore">
-                            <a href="{{site.data.programs.peer_teaching.offline.learn_more_link}}">CLICK HERE</a>
+                            <a href="https://drive.google.com/file/d/1SRshEWt4S4gY43s4Jo_xs3LE_2koV__K/view?usp=sharing">CLICK HERE</a>
                         </span>
                     </p>
                     <p class="programText">
@@ -79,7 +79,7 @@ layout: default
                 <div class="col">
                     <div class="section-title">
                         <img class="img-fluid" src='assets/img/Title-BG3.png'/>
-                        <div class="section-title-text">Innovation Programs</div>
+                        <div class="section-title-text">INNOVATION PROGRAMS</div>
                     </div>
                 </div>
             </div>
@@ -97,7 +97,7 @@ layout: default
                     </div>
                 {% endfor %}
                 <div class="col-md-12 text-center">
-                    <a href="{{site.data.programs.get_in_touch_link}}" target="_blank">
+                    <a href="https://forms.gle/ijkCQmSYrL1F8hgY8" target="_blank">
                         <p class="peerMore">
                             {{site.data.programs.get_in_touch_blurb}}
                         </p>

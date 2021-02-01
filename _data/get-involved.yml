@@ -5,9 +5,11 @@ carrers:
   title: FULL TIME CAREERS
   jobs:
     - title: Developer
-      description: Junior ddeveloper
+      date: DD/MM/YYYY
+      description: Junior developer
     
     - title: Senior DevOps
+      date: DD/MM/YYYY
       description: Experienced DevOps
   apply_link: 
 

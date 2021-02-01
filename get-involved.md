@@ -28,12 +28,14 @@ layout: default
                         <table class="table">
                             <thead>
                                 <th>Job Title</th>
+                                <th>Joining Date</th>
                                 <th>Description</th>
                             </thead>
                             <tbody>
                                 {% for job in site.data.get-involved.carrers.jobs %}
                                 <tr>
                                     <td>{{job.title}}</td>
+                                    <td>{{job.date}}</td>
                                     <td>{{job.description}}</td>
                                 </tr>
                                 {% endfor %}
@@ -69,7 +71,7 @@ layout: default
                         <h3>{{item.title}}</h3>
                         <p class="bunchOfText">{{item.blurb}}</p>
                         <p class="applylink">
-                            <a href="{{item.apply}}" target="_blank">Click here to apply</a>
+                            <a href="https://forms.gle/yVuFW8MYH8NLDZj17" target="_blank">Click here to apply</a>
                         </p>
                     </div>
                     {% endfor %}
@@ -93,7 +95,7 @@ layout: default
                     <div class="col-md-2 col-sm-12"></div>
                     <div class="col-md-8 col-sm-12">
                         <p class="bunchOfText">{{site.data.get-involved.partner_with_us.blurb}}</p>
-                        <p class="applylink"><a href="{{site.data.get-involved.partner_with_us.apply}}" target="_blank">Please click here partner with us </a></p>
+                        <p class="applylink"><a href="https://forms.gle/oH8mXyZqTfsEgTDG7" target="_blank">Please click here partner with us </a></p>
                     </div>
                     <div class="col-md-2 col-sm-12"></div>
                 </div>

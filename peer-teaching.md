@@ -58,7 +58,7 @@ layout: default
                 <div class="col">
                     <div class="section-title">
                         <img class="img-fluid" src='assets/img/Title-BG.png'/>
-                        <div class="section-title-text">Our Model</div>
+                        <div class="section-title-text">OUR MODEL</div>
                     </div>
                 </div>
             </div>
@@ -95,7 +95,7 @@ layout: default
                 <div class="col">
                     <div class="section-title">
                         <img class="img-fluid" src='assets/img/Title-BG3.png'/>
-                        <div class="section-title-text">Structures</div>
+                        <div class="section-title-text">STRUCTURE</div>
                     </div>
                 </div>
             </div>
@@ -126,7 +126,7 @@ layout: default
             <div class="col">
                 <div class="section-title">
                     <img class="img-fluid" src='assets/img/Title-BG3.png'/>
-                    <div class="section-title-text">Impact</div>
+                    <div class="section-title-text">IMPACT</div>
                 </div>
             </div>
         </div>
