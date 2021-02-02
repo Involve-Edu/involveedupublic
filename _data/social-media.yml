@@ -1,0 +1,19 @@
+- name: facebook
+  link: https://www.facebook.com/InvolveEducation/
+  icon: fa-facebook
+
+- name: wordpress
+  link: http://iaminvolved.wordpress.com/
+  icon: fa-newspaper-o
+
+- name: linkedin
+  link: https://www.linkedin.com/company/iaminvolved/
+  icon: fa-linkedin
+
+- name: youtube
+  link: https://www.youtube.com/channel/UCDUYF8upzjiuvMgfYgS897A
+  icon: fa-youtube
+
+- name: instagram
+  link: https://www.instagram.com/iaminvolved/?hl=en
+  icon: fa-instagram
