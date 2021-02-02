@@ -12,21 +12,24 @@ layout: default
             </div>
             <div class="row">
                 <div class="col-lg-4 col-md-6">
-                    <div class="skill-section skill-section-bg1 structHeight">
+                    <img class="img-fluid" style = "width:100%; height:80%" src = "assets/img/resources/2017-18.jpg">
+                    <!-- <div class="skill-section skill-section-bg1 structHeight">
                         <div class='skill-section-text yearHeight'></div>
-                    </div>
+                    </div> -->
                     <div class='skill-section-title' style="text-align: center"><a href="https://drive.google.com/file/d/1CDAeD2INL163FO2H_7a1e_R5sGjEUsCt/view?usp=sharing" target="_blank">2017-18</a></div>
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <div class="skill-section skill-section-bg4 structHeight">
+                    <img class="img-fluid" style = "width:100%; height:80%" src = "assets/img/resources/2018-19.jpg">
+                    <!-- <div class="skill-section skill-section-bg4 structHeight">
                         <div class='skill-section-text yearHeight'></div>
-                    </div>
+                    </div> -->
                     <div class='skill-section-title' style="text-align: center"><a href= "https://drive.google.com/file/d/1UHalE3D0fnaaWU7YXj7pKp2iAVrl1Y_o/view?usp=sharing" target="_blank">2018-2019</a></div>
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <div class="skill-section skill-section-bg3a structHeight">
+                    <img class="img-fluid" style = "width:100%; height:80%" src = "assets/img/resources/2019-20.jpg">
+                    <!-- <div class="skill-section skill-section-bg3a structHeight">
                         <div class='skill-section-text yearHeight'></div>
-                    </div>
+                    </div> -->
                     <div class='skill-section-title' style="text-align: center"><a href = "https://www.canva.com/design/DAEF7Kq-kh8/0yZMXIdE1AySRzRQe8tHRg/view?utm_content=DAEF7Kq-kh8&utm_campaign=designshare&utm_medium=link&utm_source=viewer" target="_blank">2019-2020</a></div>
                 </div>
             </div>
@@ -41,22 +44,27 @@ layout: default
             </div>
             <div class="row">
                 <div class="col-lg-4 col-md-6">
-                    <div class="skill-section skill-section-bg1 structHeight">
+                    <img class="img-fluid" src = "assets/img/resources/geetha.jpg">
+                    <!-- <div class="skill-section skill-section-bg1 structHeight">
                         <div class='skill-section-text yearHeight'></div>
-                    </div>
+                    </div> -->
                     <div class='skill-section-title' style="text-align: center; "><a href = "https://drive.google.com/file/d/1tfoxbBv-S1VDoLThvjc8eZfyUWkX6dRQ/view?usp=sharing" target = "blank">Geetha</a></div>
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <div class="skill-section skill-section-bg4 structHeight">
-                        <div class='skill-section-text yearHeight'></div>
-                    </div>
+                        <img class="img-fluid" src = "assets/img/resources/velachery.jpg">
+                    <!-- <div class="skill-section skill-section-bg4 structHeight">
+                        <div class='skill-section-text yearHeight'>
+                        <img class="img-fluid" src = "assets/img/resources/velachery.jpg">
+                        </div>
+                    </div> -->
                     <div class='skill-section-title' style="text-align: center"><a href = "https://drive.google.com/file/d/1ykMLEPgvY4Uz-DJ0haKu8eXDR18HfCIw/view?usp=sharing" 
                     target = "blank">Velachery</a></div>
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <div class="skill-section skill-section-bg3a structHeight">
+                        <img class="img-fluid" style = "width:100%; height:71%;" src = "assets/img/resources/coming.jpg">
+                    <!-- <div class="skill-section skill-section-bg3a structHeight">
                         <div class='skill-section-text yearHeight'></div>
-                    </div>
+                    </div> -->
                     <div class='skill-section-title' style="text-align: center"><a href = "#" target = "blank">Nandanam</a></div>
                 </div>
             </div>
