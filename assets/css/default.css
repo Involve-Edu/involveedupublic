@@ -2155,3 +2155,16 @@ border: 1px solid #4B87C7;
         border: none;
     }
 }
+
+/* Resources Style */
+.impact-section img {
+    width: 20rem;
+    height: 20rem;
+    object-fit: fill;
+}
+
+.case-studies img {
+    width: 20rem;
+    height: 15rem;
+    object-fit: cover;
+}

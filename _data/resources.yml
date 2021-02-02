@@ -1,0 +1,25 @@
+impact:
+  - img: assets/img/resources/2017-18.jpg
+    link: https://drive.google.com/file/d/1CDAeD2INL163FO2H_7a1e_R5sGjEUsCt/view?usp=sharing
+    year: 2017-2018
+  
+  - img: assets/img/resources/2018-19.jpg
+    link: https://drive.google.com/file/d/1UHalE3D0fnaaWU7YXj7pKp2iAVrl1Y_o/view?usp=sharing
+    year: 2018-2019
+  
+  - img: assets/img/resources/2019-20.jpg
+    link: https://www.canva.com/design/DAEF7Kq-kh8/0yZMXIdE1AySRzRQe8tHRg/view?utm_content=DAEF7Kq-kh8&utm_campaign=designshare&utm_medium=link&utm_source=viewer
+    year: 2019-2020
+
+case-studies:
+  - img: assets/img/resources/geetha.jpg
+    link: https://drive.google.com/file/d/1tfoxbBv-S1VDoLThvjc8eZfyUWkX6dRQ/view?usp=sharing
+    text: Geetha
+
+  - img: assets/img/resources/velachery.jpg
+    link: https://drive.google.com/file/d/1ykMLEPgvY4Uz-DJ0haKu8eXDR18HfCIw/view?usp=sharing
+    text: Velachery
+
+  - img: assets/img/resources/coming.jpg
+    link: javascript:void(0)
+    text: Nandanam
