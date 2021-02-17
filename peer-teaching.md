@@ -1,5 +1,7 @@
 ---
 layout: default
+title: peer-teaching
+description: "this is peer teaching description"
 ---
 
 <main role="main">

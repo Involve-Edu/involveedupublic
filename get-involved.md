@@ -1,7 +1,7 @@
 ---
 layout: default
 title: get-involved
-description: "this is description2"
+description: "this is get involved description"
 ---
 
 <main role="main">

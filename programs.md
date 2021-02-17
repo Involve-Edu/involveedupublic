@@ -1,5 +1,7 @@
 ---
 layout: default
+title: programs
+description: "this is programs description"
 ---
 
 <main role="main">

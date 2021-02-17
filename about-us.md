@@ -1,7 +1,7 @@
 ---
 layout: default
 title: about-us
-description: "this is a description"
+description: "this is about us description"
 ---
 
 <main role="main">

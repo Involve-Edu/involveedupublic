@@ -1,5 +1,7 @@
 ---
 layout: default
+title: index
+description: "this is index description"
 ---
 
 <main role="main">
