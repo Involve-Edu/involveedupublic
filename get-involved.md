@@ -97,7 +97,7 @@ description: "this is get involved description"
                     <div class="col-md-2 col-sm-12"></div>
                     <div class="col-md-8 col-sm-12">
                         <p class="bunchOfText">{{site.data.get-involved.partner_with_us.blurb}}</p>
-                        <p class="applylink"><a href="https://forms.gle/oH8mXyZqTfsEgTDG7" target="_blank">Please click here partner with us </a></p>
+                        <p class="applylink"><a href="https://forms.gle/oH8mXyZqTfsEgTDG7" target="_blank">Please click here to partner with us </a></p>
                     </div>
                     <div class="col-md-2 col-sm-12"></div>
                 </div>
