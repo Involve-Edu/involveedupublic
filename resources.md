@@ -1,7 +1,7 @@
 ---
 layout: default
 title: resources
-description: "this is index description"
+description: "this is resources description"
 ---
 
 <div class="container-fluid pb-4 stats">
