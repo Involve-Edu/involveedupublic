@@ -47,7 +47,7 @@ description: "this is about us description"
                     <div class="col">
                         <div class="section-title">
                             <img class="img-fluid" src='assets/img/Title-BG.png' />
-                            <div class="section-title-text">OUR PEOPLE</div>
+                            <H2 class="section-title-text">OUR PEOPLE</H2>
                         </div>
                     </div>
                 </div>
@@ -84,7 +84,7 @@ description: "this is about us description"
                     <div class="col">
                         <div class="section-title">
                             <img class="img-fluid" src='assets/img/Title-BG3.png' />
-                            <div class="section-title-text">OUR CULTURE</div>
+                            <H2 class="section-title-text">OUR CULTURE</H2>
                         </div>
                     </div>
                 </div>
@@ -108,7 +108,7 @@ description: "this is about us description"
                     <div class="col">
                         <div class="section-title">
                             <img class="img-fluid" src='assets/img/Title-BG.png' />
-                            <div class="section-title-text">AWARDS</div>
+                            <H2 class="section-title-text">AWARDS</H2>
                         </div>
                     </div>
                 </div>

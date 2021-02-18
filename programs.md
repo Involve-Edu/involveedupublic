@@ -17,7 +17,7 @@ description: "this is programs description"
             <div class="col">
                 <div class="section-title">
                     <img class="img-fluid" src='assets/img/Title-BG.png'/>
-                    <div class="section-title-text">OUR PROGRAMS</div>
+                    <H1 class="section-title-text">OUR PROGRAMS</H1>
                 </div>
             </div>
         </div>
@@ -81,7 +81,7 @@ description: "this is programs description"
                 <div class="col">
                     <div class="section-title">
                         <img class="img-fluid" src='assets/img/Title-BG3.png'/>
-                        <div class="section-title-text">INNOVATION PROGRAMS</div>
+                        <H2 class="section-title-text">INNOVATION PROGRAMS</H2>
                     </div>
                 </div>
             </div>

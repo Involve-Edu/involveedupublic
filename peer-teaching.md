@@ -33,7 +33,7 @@ description: "this is peer teaching description"
             <div class="col">
                 <div class="section-title">
                     <img class="img-fluid" src='assets/img/Title-BG3.png'/>
-                    <div class="section-title-text">OUTCOMES</div>
+                    <H2 class="section-title-text">OUTCOMES</H2>
                 </div>
             </div>
         </div>
@@ -60,7 +60,7 @@ description: "this is peer teaching description"
                 <div class="col">
                     <div class="section-title">
                         <img class="img-fluid" src='assets/img/Title-BG.png'/>
-                        <div class="section-title-text">OUR MODEL</div>
+                        <H2 class="section-title-text">OUR MODEL</H2>
                     </div>
                 </div>
             </div>
@@ -128,7 +128,7 @@ description: "this is peer teaching description"
             <div class="col">
                 <div class="section-title">
                     <img class="img-fluid" src='assets/img/Title-BG3.png'/>
-                    <div class="section-title-text">IMPACT</div>
+                    <H2 class="section-title-text">IMPACT</H2>
                 </div>
             </div>
         </div>

@@ -27,7 +27,7 @@ description: "this is resources description"
     <div class="container">
         <div class="section-title">
             <img class="img-fluid" src='assets/img/Title-BG.png'/>
-            <div class="section-title-text">CASE STUDIES</div>
+            <H1 class="section-title-text">CASE STUDIES</H1>
         </div>
         <div class="row">
             {% for item in site.data.resources.case-studies %}
