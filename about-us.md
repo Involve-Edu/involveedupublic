@@ -11,7 +11,7 @@ description: "this is about us description"
                 <div class="col">
                     <div class="section-title mb70">
                         <img class="img-fluid" src='assets/img/Title-BG3.png' />
-                        <div class="section-title-text">OUR STORY</div>
+                        <H1 class="section-title-text">OUR STORY</H1>
                     </div>
                 </div>
             </div>
