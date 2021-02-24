@@ -1,7 +1,7 @@
 ---
 layout: default
 title: resources
-description: "this is resources description"
+description: "Case studies on impact of Peer learning programs"
 ---
 
 <div class="container-fluid pb-4 stats">
