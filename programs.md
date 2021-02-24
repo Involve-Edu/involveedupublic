@@ -1,7 +1,7 @@
 ---
 layout: default
 title: programs
-description: "this is programs description"
+description: "Our Peer learning programs"
 ---
 
 <main role="main">

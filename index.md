@@ -1,7 +1,7 @@
 ---
 layout: default
 title: index
-description: "this is index description"
+description: "Building Agency in Students through Peer Based learning"
 ---
 
 <main role="main">

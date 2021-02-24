@@ -1,7 +1,7 @@
 ---
 layout: default
 title: get-involved
-description: "this is get involved description"
+description: "Intern or Volunteer opportunities"
 ---
 
 <main role="main">
