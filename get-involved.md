@@ -31,7 +31,7 @@ description: "Intern or Volunteer opportunities"
                             <thead>
                                 <th>Job Title</th>
                                 <th>Joining Date</th>
-                                <th>Description</th>
+                                <th>Job Description</th>
                             </thead>
                             <tbody>
                                 {% for job in site.data.get-involved.carrers.jobs %}
