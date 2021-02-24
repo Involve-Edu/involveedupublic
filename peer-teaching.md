@@ -1,7 +1,7 @@
 ---
 layout: default
-title: peer-teaching
-description: "this is peer teaching description"
+title: Peer-teaching program with students
+description: "Our Peer-Teaching program is a 3 year academic and leadership building program."
 ---
 
 <main role="main">

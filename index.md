@@ -1,7 +1,7 @@
 ---
 layout: default
-title: index
-description: "Building Agency in Students through Peer Based learning"
+title: Involve - Buildng Agency in Students through Peer based learning
+description: "Involve equips students with academic and future-ready skills"
 ---
 
 <main role="main">
