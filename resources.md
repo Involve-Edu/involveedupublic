@@ -1,6 +1,6 @@
 ---
 layout: default
-title: resources
+title: Peer learning impact case studies
 description: "Case studies on impact of Peer learning programs"
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: programs
+title: Peer Learning programs
 description: "Our Peer learning programs"
 ---
 
