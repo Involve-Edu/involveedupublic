@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Involve - Buildng Agency in Students through Peer based learning
-description: "Involve equips students with academic and future-ready skills"
+description: "Involve equips students with academic and future-ready skills through Peer Learning strategies."
 ---
 
 <main role="main">
