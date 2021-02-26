@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Intern or Volunteer opportunities
-description: "Work with us"
+title: Intern or Volunteer with us.
+description: "We are always on the lookout for partners to join us in our Mission of creating an ecosystem of support for our students through peer based learning."
 ---
 
 <main role="main">
