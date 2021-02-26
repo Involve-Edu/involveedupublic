@@ -30,8 +30,8 @@ student_crisis:
 challenge_to_solve:
   title: HOW DO WE SOLVE THIS CHALLENGE?
   blurb: >
-    We believe that developing agency in students and making them more self-reliant,
-    will reduce the dependence on the teachers in the learning process. For this to
+    We believe that developing student agency and making students more self-reliant,
+    will reduce their dependence on the teachers in the learning process. For this to
     happen, students will need to take ownership of their learning and develop the
     necessary skill sets for them to thrive. Towards this vision, Involve takes a
     two-pronged approach. On one side, through our peer based programs, we equip students
@@ -60,7 +60,7 @@ empovered_student:
 goal:
   title: OUR 5 YEAR GOAL
   blurb: >
-    In the next 5 years, we want to develop agency in 1 million students
+    In the next 5 years, we want to develop student agency in 1 million students
     via various programs of peer based learning with presence in minimum 3 states.
     We also will work towards policy recommendation to have time allocated for
     Peer based learning (via curriculum design - Strategies for Peer to peer learning, Bridge
@@ -77,7 +77,7 @@ impact:
   stat:
     - statVal: 3000
       statProgress: 10%
-      stat_desc: Students Leaders and Learners Impacted
+      stat_desc: Students-Leaders and Learners Impacted
     
     - statVal: 39%
       statProgress: 39%
@@ -85,10 +85,10 @@ impact:
     
     - statVal: 80%
       statProgress: 80%
-      stat_desc: Leaders improved in Future Ready Skills
+      stat_desc: Students-Leaders improved in Future Ready Skills
 
 testimonial:
-  - author: Prasanna, Student Leader, Chennai
+  - author: Prasanna, Student-Leader, Chennai
     img: assets/img/leadertesti1.png
     content: >
       Earlier I would get angry at my friends if they did something that I did not like. After joining the Peer Teaching program, I learnt how to behave like a true student leader. I learnt how to listen when someone speaks, especially my teachers. Also, in the process of teaching maths to my learners I have also improved myself. I believe I have become a better person now.
@@ -97,10 +97,10 @@ testimonial:
   - author: Bhuvan, Grade 6 Learner, Bengaluru
     img: assets/img/learnertesti1.png
     content: >
-      The teachers usually use the board to teach, but here in our peer teaching class I learn from my friends who teach using different teaching methods. We play and learn together. In 7th standard I want to become a student leader. I am excited about that because I will also get to teach other students.
+      The teachers usually use the board to teach, but here in our peer teaching class I learn from my friends who teach using different teaching methods. We play and learn together. In 7th standard I want to become a student-leader. I am excited about that because I will also get to teach other students.
     active: 
 
-  - author: Parent of Student Leader, Chennai
+  - author: Parent of Student-Leader, Chennai
     img: assets/img/parent.png
     content: >
       My child joined the Peer teaching program and I've seen many changes in her since then. Once I saw that she was not able to study one subject, so I was worried and spoke to her Involve fellow. She immediately spoke to my daughter and guided her. She also helped my daughter make a timetable which she uses regularly to track her day! Earlier she was a featherless bird, now she has the feathers of Involve.
@@ -115,13 +115,13 @@ testimonial:
   - author: Nataraj Sir, MLA Mylapore, Chennai
     img: assets/img/aboutUs/logo/placeholderlogoresized.png
     content: >
-      Peer Teaching is a unique concept enabling students to share their learning experience, helping fellow students. Student leaders encourage peers to clear their doubts and learning becomes fun. I have seen their work in some of the corporation schools in Mylapore. I was amazed at the transformation among the student leaders and learners.
+      Peer Teaching is a unique concept enabling students to share their learning experience, helping fellow students. Student-leaders encourage peers to clear their doubts and learning becomes fun. I have seen their work in some of the corporation schools in Mylapore. I was amazed at the transformation among the student-leaders and learners.
     active: 
 
   - author: Manveen Chadha, Mentor, Involve
     img: assets/img/manveen.png
     content: >
-      It gives me great pride in being part of your journey at Involve and seeing it grow and reach out to a lot more children and young adults who want to walk with you on this amazing journey. Your work is creating ripples of leaders in the lives you touch, but I must add -'miles to go before we reach our goal’.
+      It gives me great pride in being part of your journey at Involve and seeing it grow and reach out to a lot more children and young adults who want to walk with you on this amazing journey. Your work is creating ripples in the lives you touch, but I must add -'miles to go before we reach our goal’.
     active: 
 
 mentors:

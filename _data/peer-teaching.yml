@@ -6,11 +6,11 @@ overview:
   blurb: >
     Our Peer-Teaching program is a 3 year academic and leadership 
     building program. We partners with schools where students from Grade 7 
-    and above volunteer to be Student Leaders who then teach and 
+    and above volunteer to be Student-Leaders who then teach and 
     mentor learners from lower grades and aim to bridge their foundational gaps. 
-    In the process Student Leaders develop future ready skills. Our 4+ hours of intervention 
+    In the process Student-Leaders develop future ready skills. Our 4+ hours of intervention 
     per week using well-researched pedagogies and age appropriate leadership 
-    sessions ensure a holistic development of these student leaders while they support learners in their learning process.
+    sessions ensure a holistic development of these student-leaders while they support learners in their learning process.
 
 outcomes:
   - img: assets/img/peerTeaching/outcomes/academicOutcomes.png
@@ -31,7 +31,7 @@ outcomes:
   
   - img: assets/img/peerTeaching/outcomes/ProblemSolving.png
     title: Improved Problem Solving skills
-    description: Student Leaders will be able to identify and solve problems in various contexts. 
+    description: Student-Leaders will be able to identify and solve problems in various contexts. 
 
 our_model:
   blurb: >
@@ -46,21 +46,21 @@ structures:
     - year_val: YEAR 1
       list:
         - Peer Teaching classes managed by Changemaker Fellows
-        - Pedagogical and content training for Student Leaders
+        - Pedagogical and content training for Student-Leaders
         - Impact evaluations to understand program’s effectiveness
       background_colour: bg1
     
     - year_val: YEAR 2
       list:
-        - Peer Teaching classes managed by Year 1 Student Leaders supported by Change maker Fellows
+        - Peer Teaching classes managed by Year 1 Student-Leaders supported by Change maker Fellows
         - Need based training of SLs to enable them to take ownership of the program in their schools
         - School teachers engage in the Peer Teaching process through classroom visits, student conversations
       background_colour: bg4
     
     - year_val: YEAR 3
       list:
-        - Peer Teaching classes managed by Year 1 and 2 Student Leaders, supported by school teachers
-        - Need based trainings to support Year 1 and 2 Student Leaders and teachers
+        - Peer Teaching classes managed by Year 1 and 2 Student-Leaders, supported by school teachers
+        - Need based trainings to support Year 1 and 2 Student-Leaders and teachers
         - Impact evaluation conducted to understand program’s effectiveness
       background_colour: bg3a
 
@@ -70,7 +70,7 @@ impact:
     background_colour: bg1
   
   - stat: 400
-    description: STUDENT LEADER
+    description: STUDENT-LEADER
     background_colour: bg2
 
   - stat: 2000
