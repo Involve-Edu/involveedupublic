@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Our Story and Team
+title: Our Team & its Story
 description: "We believe in the power of teams to achieve the extraordinary. We are a group of people with passion and right skill sets, from various backgrounds, united by our vision of developing student agency."
 ---
 
