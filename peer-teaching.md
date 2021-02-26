@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Peer-teaching program with students
+title: Peer-teaching In India
 description: "Our Peer-Teaching program is a 3 year academic and leadership building program."
 ---
 
