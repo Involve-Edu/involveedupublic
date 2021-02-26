@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Buildng Student through Peer learning strategies.
+title: Building Student Agency through Peer learning strategies.
 description: "Involve equips students with academic and future-ready skills through Peer Learning strategies."
 ---
 
