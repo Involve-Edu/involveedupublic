@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Peer learning impact case studies
+title: Peer learning Case Studies
 description: "Case studies on impact of Peer learning programs"
 ---
 
@@ -8,7 +8,7 @@ description: "Case studies on impact of Peer learning programs"
     <div class="container">
         <div class="section-title">
             <img class="img-fluid" src='assets/img/Title-BG3.png' />
-            <div class="section-title-text">IMPACT</div>
+            <div class="section-title-text">OUR IMPACT TILL NOW</div>
         </div>
         <div class="row">
             {% for item in site.data.resources.impact %}
@@ -27,7 +27,7 @@ description: "Case studies on impact of Peer learning programs"
     <div class="container">
         <div class="section-title">
             <img class="img-fluid" src='assets/img/Title-BG.png'/>
-            <H1 class="section-title-text">CASE STUDIES</H1>
+            <H1 class="section-title-text">PEER LEARNING CASE STUDIES</H1>
         </div>
         <div class="row">
             {% for item in site.data.resources.case-studies %}
