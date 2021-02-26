@@ -38,7 +38,7 @@ description: "Work with us"
                                 <tr>
                                     <td>{{job.title}}</td>
                                     <td>{{job.date}}</td>
-                                    <td><a href="{{job.description}}"</a></td>
+                                    <td><a href>="{{job.description}}"</a></td>
                                 </tr>
                                 {% endfor %}
                             </tbody>
