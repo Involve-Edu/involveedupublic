@@ -23,7 +23,7 @@ student_crisis:
   title: THE STUDENT CRISIS IN INDIA
   blurb: >
     These challenges exist because students' learning is entirely dependent
-    on teachers, and students have always been passive participants in the
+    on teachers, and they have always been passive participants in the
     learning process. This is unsustainable because the world is changing and
     we don't have the teaching infrastructure to support the personalized attention needed.
 
@@ -31,40 +31,40 @@ challenge_to_solve:
   title: HOW DO WE SOLVE THIS CHALLENGE?
   blurb: > 
     We believe that developing agency in students and making them more self-reliant,
-    will reduce the dependence on the adults in the learning process. For this to
+    will reduce the dependence on the teachers in the learning process. For this to
     happen, students will need to take ownership of their learning and develop the
-    necessary skillsets for them to thrive. Towards this vision, Involve takes a
-    two-pronged approach. On one side, through our peer-based programs, we equip students
-    with academic and future-ready skills. While on the other side, we work with the larger
+    necessary skill sets for them to thrive. Towards this vision, Involve takes a
+    two-pronged approach. On one side, through our peer based programs, we equip students
+    with academic and future ready skills. While on the other side, we work with the larger
     education landscape to build an ecosystem of trust for our student, empowering them to
     take stronger ownership of their lives.
 
 empovered_student:
   title: AN EMPOWERED STUDENT HAS...
   skills:
-    - title: VOICE
+    - title: VOICE AND CHOICE
       img: assets/img/Voice.png
-      desc: Students have spaces for meaningful inclusion in classrooms, schools, communities and governments.
+      desc: spaces for meaningful inclusion in classrooms, schools and communities.
       background_colour: skill-section-bg1
     
-    - title: ACADEMIC SKILLS
+    - title: SKILLS
       img: assets/img/puzzleicon.png
-      desc: Students have strong foundational academic skills that enable them to make informed choices.
+      desc: strong academic and future ready skills that will enable him/her to make informed choices & exercise their voice hence contributing meaningfully to the world.
       background_colour: skill-section-bg3
 
-    - title: FUTURE READY SKILLS
+    - title: OWNERSHIP
       img: assets/img/personicon.png
-      desc: Students have skills that will help them exercise their voice and contribute meaningfully to the world.
+      desc: take responsibility and initiative towards their learning goals.
       background_colour: skill-section-bg4
 
 goal:
   title: OUR 5 YEAR GOAL
   blurb: >
     In the next 5 years, we want to develop agency in 1 million students
-    via various programs of peer-based learning with presence in min. 3 states.
+    via various programs of peer based learning with presence in minimum 3 states.
     We also will work towards policy recommendation to have time allocated for
-    Peer-based learning (via curriculum design - Strategies for P2P, Bridge
-    program through PT)
+    Peer based learning (via curriculum design - Strategies for Peer to peer learning, Bridge
+    program through Peer Teaching)
   img: assets/img/ourGoal.png
 
 impact:
@@ -77,7 +77,7 @@ impact:
   stat:
     - statVal: 3000
       statProgress: 10%
-      stat_desc: Students Impacted
+      stat_desc: Students Leaders and Learners Impacted
     
     - statVal: 39%
       statProgress: 39%
@@ -85,25 +85,25 @@ impact:
     
     - statVal: 80%
       statProgress: 80%
-      stat_desc: Leaders improved in Future-Ready Skills
+      stat_desc: Leaders improved in Future Ready Skills
 
 testimonial:
   - author: Prasanna, Student Leader, Chennai
     img: assets/img/leadertesti1.png
     content: >
-      Earlier I would get angry at my friends if they did something that I did not like. After joining the Involve program, I learn how to behave like a true leader. I learn how to listen when someone speaks, specially my teachers. Also, in the process of teaching maths to my learners I have also improved myself. I believe I have become a better person now.
+      Earlier I would get angry at my friends if they did something that I did not like. After joining the Peer Teaching program, I learnt how to behave like a true student leader. I learnt how to listen when someone speaks, especially my teachers. Also, in the process of teaching maths to my learners I have also improved myself. I believe I have become a better person now.
     active: active
       
   - author: Bhuvan, Grade 6 Learner, Bengaluru
     img: assets/img/learnertesti1.png
     content: >
-      The teachers usually use the board to teach, but here in Involve class I learn from my friends who teach using different things. We play and learn together. In 7th standard I want to become a leader. I am exicited about that because I will also get to teach others
+      The teachers usually use the board to teach, but here in our peer teaching class I learn from my friends who teach using different teaching methods. We play and learn together. In 7th standard I want to become a student leader. I am excited about that because I will also get to teach other students.
     active: 
 
   - author: Parent of Student Leader, Chennai
     img: assets/img/parent.png
     content: >
-      My child joined the Involve program and i've seen many changes her since then. Once I saw that she was not able to study one subject, so I was worried and spoke to her Involve fellow. She immediately talked to my daughter and guided her. She alo helped my daughter make a timetable which she uses regularly to track her day! Earlier she was a featherless bird, now she has the feather of Involve
+      My child joined the Peer teaching program and I've seen many changes in her since then. Once I saw that she was not able to study one subject, so I was worried and spoke to her Involve fellow. She immediately spoke to my daughter and guided her. She also helped my daughter make a timetable which she uses regularly to track her day! Earlier she was a featherless bird, now she has the feathers of Involve.
     active: 
 
   - author: Kendriya Vidyalaya Teacher, Chennai
@@ -115,13 +115,13 @@ testimonial:
   - author: Nataraj Sir, MLA Mylapore, Chennai
     img: assets/img/aboutUs/logo/placeholderlogoresized.png
     content: >
-      Student leader is a unique concept enabling students to share their learning experience, helping fellow students. Student leaders encourage peers to clear their doubts and learning becomes fun. I have seen for myself their work in some of the corporation schools in Mylapore. I was amazed at the transformation among the students, their confidence levels and communication skills.
+      Peer Teaching is a unique concept enabling students to share their learning experience, helping fellow students. Student leaders encourage peers to clear their doubts and learning becomes fun. I have seen their work in some of the corporation schools in Mylapore. I was amazed at the transformation among the student leaders and learners.
     active: 
 
   - author: Manveen Chadha, Mentor, Involve
     img: assets/img/manveen.png
     content: >
-      It gives me great pride in being part of your journey at Involve and see it grow and reach out to a lot more children and young adults who want to walk with you on this amazing journey. Your work is creating ripples of leaders in the lives you touch, but I must add -'miles to go before we reach our goal
+      It gives me great pride in being part of your journey at Involve and seeing it grow and reach out to a lot more children and young adults who want to walk with you on this amazing journey. Your work is creating ripples of leaders in the lives you touch, but I must add -'miles to go before we reach our goal’.
     active: 
 
 mentors:
@@ -243,5 +243,5 @@ partners:
 
 support:
   title: SUPPORT US
-  blurb: We invite you to join us in this journey of empowering our students with Voice, Choice and Skills to become self reliant and socially conscious citizens.
+  blurb: We invite you to join us in this journey of creating student agency, empowering them  with Voice, Choice,Skills and ownership so that they become self-reliant and socially conscious citizens.
   donate_link: https://fundraisers.giveindia.org/nonprofits/involve

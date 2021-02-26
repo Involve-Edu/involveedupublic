@@ -2,7 +2,7 @@ banner:
   img: assets/img/aboutUs/getInvolvedHeader.png
 
 carrers:
-  title: FULL TIME CAREERS
+  title: FULL TIME CAREER OPPORTUNITIES
   jobs:
     - title: Operations Lead (Public schools)
       date: Immediate Joining
@@ -14,14 +14,14 @@ carrers:
   apply_link: 
 
 part_time_carrers:
-  title: PART TIME CAREERS
+  title: PART TIME CAREER OPPORTUNITIES
   jobs:
-    - title: Internship
+    - title: Intern with Involve
       blurb: >
         Do you want to explore the education/ social sector? Are you curious about what it takes to build an organization ground up? Explore our Internship opportunities.
       apply: 
 
-    - title: Volunteers
+    - title: Volunteer with Involve
       blurb: >
         Are you interested in contributing to our cause, but can't join us full time? Volunteer with us and add to our team with your skills!
       apply: 
@@ -29,8 +29,9 @@ part_time_carrers:
 partner_with_us:
   title: PARTNER WITH US
   blurb: >
-    We are always on the lookout for partners to join us in our Mission. 
-    If you are a school, organization or individual looking to use Peer-based 
-    learning methods towards creating student-centred learning, please fill 
-    in the form below and we will reach out to you.
+    We are always on the lookout for partners to join us in our Mission of
+    creating an ecosystem of support for our students through peer based learning.
+    If you are a school, organization or individual looking to use Peer based
+    learning to create  student agency and empower students with Voice, Choice,
+     Skills and ownership  please fill in the form below and we will reach out to you.
   apply:

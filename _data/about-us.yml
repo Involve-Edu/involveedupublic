@@ -1,10 +1,10 @@
 timeline:
   - text_position: top
-    blurb: "2017: Idea for Involve wins the Global Engagement Summit at Northwestern University Chicago."
+    blurb: "2017: Involve’s Peer Teaching program of Involve wins the Global Engagement Summit at Northwestern University Chicago"
     number: 01
   
   - text_position: bottom
-    blurb: "2018: Involve registered as an organization and year long Peer Teaching pilot implemented with 200 students."
+    blurb: "2018: Involve registered as an organization and its year long Peer Teaching program implemented with 200 students in India."
     number: 02
 
   - text_position: top
@@ -12,11 +12,11 @@ timeline:
     number: 03
 
   - text_position: bottom
-    blurb: "2019: Peer Teaching program conducted in 30 schools in Chennai and Bengaluru, impacting 2400 students."
+    blurb: "2019: Peer Teaching program conducted in 30 schools in Chennai and Bengaluru, impacting 2400 Student Leaders and Learners"
     number: 04
 
   - text_position: top
-    blurb: "2020: Online Peer Teaching pilot with 30 student groups teaching and learning from one another."
+    blurb: "2020: Online Peer Teaching pilot started with 30 groups of Student Leaders and Learners  teaching and learning from one another."
     number: 05
 
   - text_position: bottom
@@ -26,9 +26,8 @@ timeline:
 people:
   culture_blurb: >
     We believe in the power of teams to achieve the extraordinary. 
-    We are a group of people with passion and right skillsets, 
-    from various backgrounds, united by our vision of providing 
-    students with agency.
+    We are a group of people with passion and right skill sets, 
+    from various backgrounds, united by our vision of developing agency in students.
   team:
     - name: DIVANSHU KUMAR
       designation: Founder, CEO
