@@ -38,7 +38,7 @@ description: "We are always on the lookout for partners to join us in our Missio
                                 <tr>
                                     <td>{{job.title}}</td>
                                     <td>{{job.date}}</td>
-                                    <td>{{job.description}}</td>
+                                    <td><a href={{job.description}}></a></td>
                                 </tr>
                                 {% endfor %}
                             </tbody>
