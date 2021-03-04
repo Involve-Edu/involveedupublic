@@ -47,13 +47,6 @@ description: "We are always on the lookout for partners to join us in our Missio
                         </table>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-md-12 text-center">
-                        <p class="applylinks">
-                            <a href="{{site.data.get-involved.carrers.apply_link}}" target="_blank">Click here to apply</a>
-                        </p>
-                    </div>
-                </div>
             </div>
         </div>
     </section>
