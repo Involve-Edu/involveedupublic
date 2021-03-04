@@ -39,7 +39,7 @@ description: "We are always on the lookout for partners to join us in our Missio
                                     <td>{{job.title}}</td>
                                     <td>{{job.date}}</td>
                                     <td>
-                                        <a href="www.google.com">{{job.description}}</a>
+                                        <a href="{{job.description}}">Link to apply</a>
                                     </td>
                                 </tr>
                                 {% endfor %}
