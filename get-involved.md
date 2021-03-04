@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Intern or Volunteer with us.
+title: Intern or Volunteer with us and help students imporve in their future ready and academic skills.
 description: "We are always on the lookout for partners to join us in our Mission of creating an ecosystem of support for our students through peer based learning."
 ---
 
@@ -19,10 +19,10 @@ description: "We are always on the lookout for partners to join us in our Missio
             <div class="container ">
                 <div class="row">
                     <div class="col">
-                        <h1 class="section-title">
+                        <H1 class="section-title">
                             <img class="img-fluid" src='assets/img/Title-BG3.png' />
                             <div class="section-title-text">{{site.data.get-involved.carrers.title}}</div>
-                        </h1>
+                        </H1>
                     </div>
                 </div>
                 <div class="row">

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Peer Learning programs
+title: Peer Learning and teaching programs where students teach students.
 description: "Peer based learning is a pedagogical practice that improves ownership and investment in learning among students. When students teach and learn from their peers, they develop better clarity about the content being taught, while the student teachers develop future ready skills "
 ---
 

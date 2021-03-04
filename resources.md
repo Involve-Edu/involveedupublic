@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Peer learning Case Studies
+title: Case studies on impact of Peer learning programs, Peer learning Case Studies and impact report of involve's peer learning and teaching program in India.
 description: "Case studies on impact of Peer learning programs"
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Our Team & its Story
-description: "We believe in the power of teams to achieve the extraordinary. We are a group of people with passion and right skill sets, from various backgrounds, united by our vision of developing student agency."
+title: Journey of Involve, how we started, our Team & its Story
+description: "We believe in the power of team to achieve the extraordinary. We are a group of people with passion and right skill sets, from various backgrounds, united by our vision of developing student agency."
 ---
 
 <main role="main">
