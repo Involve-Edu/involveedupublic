@@ -19,10 +19,10 @@ description: "We are always on the lookout for partners to join us in our Missio
             <div class="container ">
                 <div class="row">
                     <div class="col">
-                        <div class="section-title">
+                        <h1 class="section-title">
                             <img class="img-fluid" src='assets/img/Title-BG3.png' />
                             <div class="section-title-text">{{site.data.get-involved.carrers.title}}</div>
-                        </div>
+                        </h1>
                     </div>
                 </div>
                 <div class="row">
