@@ -15,10 +15,10 @@ description: "Our Peer-Teaching program is a 3 year academic and leadership buil
     <div class="container pb-4">
         <div class="row">
             <div class="col">
-                <div class="section-title">
+                <h1 class="section-title">
                     <img class="img-fluid" src='assets/img/Title-BG.png'/>
                     <div class="section-title-text text-uppercase">{{site.data.peer-teaching.overview.title}}</div>
-                </div>
+                </h1>
             </div>
         </div>
         <div class="row">
