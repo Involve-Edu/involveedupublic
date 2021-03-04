@@ -77,12 +77,12 @@ description: "Involve equips students with academic and future-ready skills thro
     <div class="container pb-4">
         <div class="row">
             <div class="col">
-                <h1 class="section-title">
+                <div class="section-title">
                     <img class="img-fluid" src='assets/img/Title-BG3.png' />
                     <div id="ourPrograms" class="section-title-text">
                         {{ site.data.index.challenge_to_solve.title }}
                     </div>
-                </h1>
+                </div>
             </div>
         </div>
         <div class="row">
@@ -95,10 +95,10 @@ description: "Involve equips students with academic and future-ready skills thro
         <div class="container">
             <div class="row">
                 <div class="col">
-                    <h1 class="section-title">
+                    <div class="section-title">
                         <img class="img-fluid" src='assets/img/Title-BG.png' />
                         <div class="section-title-text">{{site.data.index.empovered_student.title}}</div>
-                    </h1>
+                    </div>
                 </div>
             </div>
             <div class="row">
@@ -118,10 +118,10 @@ description: "Involve equips students with academic and future-ready skills thro
         <div class="container ">
             <div class="row">
                 <div class="col">
-                    <h1 class="section-title">
+                    <div class="section-title">
                         <img class="img-fluid" src='assets/img/Title-BG3.png' />
                         <div class="section-title-text">{{site.data.index.goal.title}}</div>
-                    </h1>
+                    </div>
                 </div>
             </div>
             <div class="row">
@@ -137,10 +137,10 @@ description: "Involve equips students with academic and future-ready skills thro
     <div class="container impact-section-parent">
         <div class="row">
             <div class="col">
-                <h1 class="section-title">
+                <div class="section-title">
                     <img class="img-fluid" src='assets/img/Title-BG.png' />
                     <div id="resources" class="section-title-text">{{site.data.index.impact.title}}</div>
-                </h1>
+                </div>
             </div>
         </div>
         <div class="row pb-3 ">
