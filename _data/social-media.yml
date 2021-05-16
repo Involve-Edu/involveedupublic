@@ -1,19 +1,19 @@
 - name: facebook
-  link: https://www.facebook.com/InvolveEducation/
+  link: https://www.facebook.com/involveedu
   icon: fa-facebook
 
 - name: wordpress
-  link: http://iaminvolved.wordpress.com/
+  link: https://involveedu.wordpress.com/
   icon: fa-newspaper-o
 
 - name: linkedin
-  link: https://www.linkedin.com/company/iaminvolved/
+  link: https://www.linkedin.com/company/involveedu
   icon: fa-linkedin
 
 - name: youtube
-  link: https://www.youtube.com/channel/UCDUYF8upzjiuvMgfYgS897A
+  link: https://www.youtube.com/c/involveedu
   icon: fa-youtube
 
 - name: instagram
-  link: https://www.instagram.com/iaminvolved/?hl=en
+  link: https://www.instagram.com/involveedu/
   icon: fa-instagram
