@@ -1,5 +1,5 @@
 - name: facebook
-  link: https://www.facebook.com/involveedu
+  link: https://www.facebook.com/involveedu/
   icon: fa-facebook
 
 - name: wordpress
@@ -7,11 +7,11 @@
   icon: fa-newspaper-o
 
 - name: linkedin
-  link: https://www.linkedin.com/company/involveedu
+  link: https://www.linkedin.com/company/involveedu/
   icon: fa-linkedin
 
 - name: youtube
-  link: https://www.youtube.com/c/involveedu
+  link: https://www.youtube.com/c/involveedu/
   icon: fa-youtube
 
 - name: instagram
