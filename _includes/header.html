@@ -4,7 +4,11 @@
             <div class="contact-number">
                 <i class="fa fa-mobile-phone" style="font-size:23px; vertical-align:sub; padding-top: 1px; "></i> +91-9087864370
             </div>
-          
+            <div class="social-media-section">
+                {% for item in site.data.social-media %}
+                    <a href="{{item.link}}" class="fa {{item.icon}}" target="_blank"></a>
+                {% endfor %}
+            </div>
         </div>
     </div>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
