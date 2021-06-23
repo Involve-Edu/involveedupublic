@@ -230,8 +230,6 @@ partners:
       img: assets/img/Mantra.png
   
   slide_set_2:
-    - link: https://www.capgemini.com/in-en/
-      img: assets/img/Capgemini.jpg
     
     - link: http://gratitude-network.org/the-gratitude-network-fellowship/
       img: assets/img/gratitude.png
