@@ -213,8 +213,6 @@ media_recognition:
 partners:
   title: OUR PARTNERS
   slide_set_1:
-    - link: https://www.wellsfargo.com/about/corporate-responsibility/
-      img: assets/img/wellsfargo.png
 
     - link: https://uwindia.org/
       img: assets/img/united.png
