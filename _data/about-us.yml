@@ -64,9 +64,14 @@ people:
       bio: I am the solid rock in the flowing river
       img: assets/img/aboutUs/pratibhaLinkedin-min.jpg
 
-    - name: CHETNA KALWANI
-      designation: Curriculum Specialist
-      bio: CHETNA KALWANI
+    - name: MALAVIKA ACHARYA
+      designation: Operations Lead
+      bio: MALAVIKA ACHARYA
+      img: assets/img/aboutUs/chetnaCropped-min.jpg
+
+    - name: SINDHU
+      designation: Operations Lead
+      bio: SINDHU
       img: assets/img/aboutUs/chetnaCropped-min.jpg
 
 culture:
