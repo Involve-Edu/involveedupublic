@@ -49,7 +49,7 @@ description: "Case studies on impact of Peer learning programs"
             <H1 class="section-title-text">OUR OPEN SOURCE RESOURCES</H1>
         </div>
         <div class="row">
-            {% for item in site.data.resources.case-studies %}
+            {% for item in site.data.resources.open-source %}
             <div class="col-lg-4 col-md-6 case-studies text-center">
                 <img class="img-fluid" src="{{item.img}}">
                 <div class='skill-section-title'>
