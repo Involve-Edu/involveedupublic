@@ -46,7 +46,7 @@ description: "Case studies on impact of Peer learning programs"
     <div class="container">
         <div class="section-title">
             <img class="img-fluid" src='assets/img/Title-BG.png'/>
-            <H1 class="section-title-text">OUR OPEN SOURCE RESOURCES</H1>
+            <H1 class="section-title-text">OPEN SOURCE RESOURCES</H1>
         </div>
         <div class="row">
             {% for item in site.data.resources.open-source %}
