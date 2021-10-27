@@ -41,3 +41,22 @@ description: "Case studies on impact of Peer learning programs"
         </div>
     </div>
 </div>
+
+<div class="container-fluid pb-4 statsOne">
+    <div class="container">
+        <div class="section-title">
+            <img class="img-fluid" src='assets/img/Title-BG.png'/>
+            <H1 class="section-title-text">OUR OPEN SOURCE RESOURCES</H1>
+        </div>
+        <div class="row">
+            {% for item in site.data.resources.case-studies %}
+            <div class="col-lg-4 col-md-6 case-studies text-center">
+                <img class="img-fluid" src="{{item.img}}">
+                <div class='skill-section-title'>
+                    <a href="{{item.link}}" target="blank">{{item.text}}</a>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>

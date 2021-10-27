@@ -29,49 +29,70 @@ people:
     We are a group of people with passion and right skill sets, 
     from various backgrounds, united by our vision of developing student agency.
   team:
-    - name: DIVANSHU KUMAR
-      designation: Founder, CEO
+    - name: Divanshu Kumar
+      designation: Co-Founder, CEO
       bio: I am the spring that gives life to deep-rooted individuals in the forest
       img: assets/img/aboutUs/divanshuCropped-min.jpeg
     
-    - name: SAMYAK JAIN
+    - name: Samyak Jain
       designation: Co-Founder, COO
       bio: I am the electric current that uncovers your true self and sparks energy
       img: assets/img/aboutUs/samyakJainProfessionalPic1.png
     
-    - name: AWNISH RAJ
-      designation: Communications
-      bio: AWNISH RAJ
+    - name: Awnish Raj
+      designation: Communications Lead
+      bio: Awnish Raj
       img: assets/img/aboutUs/Awnish-min.jpeg
 
-    - name: ASHA SHANBHAG
-      designation: Operations
-      bio: ASHA SHANBHAG
+    - name: Asha Shanbhag
+      designation: Operations Lead- Community Model (Urban)
+      bio: Asha Shanbhag
       img: assets/img/aboutUs/ashaCropped-min.jpg
 
-    - name: ASHWINI RAMAKRISHNAN
-      designation: Design
+    - name: Ashwini Ramakrishnan
+      designation: Design Lead
       bio: I am the enabler that will make people believe in themselves
       img: assets/img/aboutUs/lakshmiCropped-min.jpg
 
-    - name: SUPRITH SRIDHARAMURTHY
-      designation: High School Project
+    - name: Suprith Sridharamurthy
+      designation: Operations Lead- Scale Model
       bio: I'm the mirror that lets people accept and reflect their true selves.
       img: assets/img/aboutUs/suprithCropped-min.jpg
 
-    - name: PRATIBHA NARAYANAN
-      designation: Fundraising & Design
+    - name: Pratibha Narayanan
+      designation: Program Manager
       bio: I am the solid rock in the flowing river
       img: assets/img/aboutUs/pratibhaLinkedin-min.jpg
 
-    - name: MALAVIKA ACHARYA
-      designation: Operations Lead
+    - name: Malavika Acharya
+      designation: Operations Lead - Fellow Model
       bio: MALAVIKA ACHARYA
       img: assets/img/aboutUs/malavika.jpeg
 
-    - name: SINDHU K
+    - name: Sindhu K
       designation: Operations Associate
       bio: SINDHU K
+      img: assets/img/aboutUs/sindhu.jpeg
+
+
+    - name: Anna Daniel
+      designation: Curriculum Lead
+      bio: Anna Daniel
+      img: assets/img/aboutUs/AnnaCropped-min.jpeg
+
+    - name: Sudhanshu Pandey
+      designation: Operations Lead - (Rural)
+      bio: Sudhanshu Pandey
+      img: assets/img/aboutUs/pratibhaLinkedin-min.jpg
+
+    - name: Nandini Jhaveri
+      designation: Curriculum Specialist
+      bio: David Nallathambi
+      img: assets/img/aboutUs/malavika.jpeg
+
+    - name: David Nallathambi
+      designation: Fundraising and Operations Mentor
+      bio: David Nallathambi
       img: assets/img/aboutUs/sindhu.jpeg
 
 culture:
