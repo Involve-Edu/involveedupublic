@@ -129,6 +129,24 @@ mentors:
     bio: Co-Founder, Mantra4Change & COO, Shikshalokam
     img: assets/img/ka1.png
     linkedin: https://www.linkedin.com/in/khushboo-awasthi-1a15ba25/
+    arrow: up
+
+  - name: MR. SANTOSH MORE
+    bio: Co-Founder Mantra4Change
+    img: assets/img/sm.png
+    linkedin: https://www.linkedin.com/in/santosh-more-19716417/
+    arrow: down
+
+  - name: MR. ULHAS VAIRAGKAR
+    bio: Ex-Director, T.I.M.E; IIMA
+    img: assets/img/ulhas.png
+    linkedin: https://www.linkedin.com/in/ulhas-vairagkar-56697ba/
+    arrow: up
+
+  - name: MR. Nikunj Jhaveri
+    bio: Founder, Systems Plus
+    img: assets/img/resources/Nikunj.png
+    linkedin: https://www.linkedin.com/in/nikunjjhaveri/
     arrow: down
   
   - name: MR. SANJAY PUROHIT
@@ -161,17 +179,7 @@ mentors:
     linkedin: https://www.linkedin.com/in/tvdupont/
     arrow: up
 
-  - name: MR. SANTOSH MORE
-    bio: Co-Founder Mantra4Change
-    img: assets/img/sm.png
-    linkedin: https://www.linkedin.com/in/santosh-more-19716417/
-    arrow: down
 
-  - name: MR. ULHAS VAIRAGKAR
-    bio: Ex-Director, T.I.M.E; IIMA
-    img: assets/img/ulhas.png
-    linkedin: https://www.linkedin.com/in/ulhas-vairagkar-56697ba/
-    arrow: up
     
 media_recognition:
   title: MEDIA RECOGNITIONS
