@@ -22,10 +22,11 @@ carousel:
 student_crisis:
   title: THE STUDENT CRISIS IN INDIA.
   blurb: >
-    These challenges exist because students' learning is entirely dependent
-    on teachers, and they have always been passive participants in the
-    learning process. This is unsustainable because the world is changing and
-    we don't have the teaching infrastructure to support the personalized attention needed.
+    The COVID-19 pandemic has exposed the frailties of our education system. 
+    The loss of spaces and structures of education led to tremendous loss of learning,as it is 
+    established by the APU report on “Learning Loss during the pandemic”.
+    This loss can be, on the one hand, attributed to the resource inequality and the challenges of online 
+    learning, but on the other hand, to the lack of ownership in our students.  
 
 challenge_to_solve:
   title: HOW DO WE SOLVE THIS?
