@@ -44,13 +44,14 @@ empovered_student:
   title: AN EMPOWERED STUDENT HAS
   skills:
     - title: VOICE AND CHOICE
-      img: assets/img/spaces.png
+      img: assets/img/voice.png
       desc: spaces for meaningful inclusion in classrooms, schools and communities.
       background_colour: skill-section-bg1
     
     - title: SKILLS
       img: assets/img/puzzleicon.png
-      desc: strong academic and future ready skills that will enable him/her to make informed choices & exercise their voice hence contributing meaningfully to the world.
+      desc: strong academic and future ready skills that will enable them to make 
+            informed choices & exercise their voice hence contributing meaningfully to the world.
       background_colour: skill-section-bg3
 
     - title: OWNERSHIP
