@@ -77,8 +77,8 @@ impact:
     in their classrooms, not just for themselves, but also for their peers. We are creating a
     culture of students learning from each other. Our impact in numbers:
   stat:
-    - statVal: 3000
-      statProgress: 10%
+    - statVal: 7000+ 
+      statProgress: 90%
       stat_desc: Students-Leaders and Learners Impacted
     
     - statVal: 40%
@@ -90,28 +90,28 @@ impact:
       stat_desc: Students-Leaders improved in Future Ready Skills
 
 testimonial:
-  - author: Prasanna, Student-Leader, Chennai
-    img: assets/img/leadertesti1.png
+  - author: Cheeranlal, Student Leader, Pachadhana Kutir
+    img: assets/img/Kutir.jpeg
     content: >
-      Earlier I would get angry at my friends if they did something that I did not like. After joining the Peer Teaching program, I learnt how to behave like a true student leader. I learnt how to listen when someone speaks, especially my teachers. Also, in the process of teaching maths to my learners I have also improved myself. I believe I have become a better person now.
+     "सर, पहले मैं अपने स्कूल में टीचर से  कोई डाउट नहीं पूछता था लेकिन अब जब मैं पढता हूँ और मेरे लर्नर्स मेरे से सवाल पूछते हैं तो मुझे बहुत  अच्छा लगता है और मैं भी अब अपने टीचर से अपना डाउट पूछता हूँ ” 
     active: active
       
-  - author: Bhuvan, Grade 6 Learner, Bengaluru
-    img: assets/img/learnertesti1.png
+  - author: Vedapathi Ma'am, Coordinatior, KV School Chennai
+    img: assets/img/Vedapathi.jpg
     content: >
-      The teachers usually use the board to teach, but here in our peer teaching class I learn from my friends who teach using different teaching methods. We play and learn together. In 7th standard I want to become a student-leader. I am excited about that because I will also get to teach other students.
+     "I have seen the transformation of Peer Education before my eyes in less than 20 days" 
     active: 
 
-  - author: Parent of Student-Leader, Chennai
-    img: assets/img/parent.png
+  - author: Geetanjali, Student Leader, Chennai
+    img: assets/img/Geetanjali.jpg
     content: >
-      My child joined the Peer teaching program and I've seen many changes in her since then. Once I saw that she was not able to study one subject, so I was worried and spoke to her Involve fellow. She immediately spoke to my daughter and guided her. She also helped my daughter make a timetable which she uses regularly to track her day! Earlier she was a featherless bird, now she has the feathers of Involve.
+      "I was in a position to tell students what to do and what not to do, so I think that made me responsible. Also, you can't go unplanned when you teach students, so I used to plan before every class. I also had to go for my tuition and make class plans for teaching my learners, which also led to the skill of prioritizing."
     active: 
 
-  - author: Kendriya Vidyalaya Teacher, Chennai
-    img: assets/img/testimonial1.png
+  - author: CRP, Jigani, Bengaluru
+    img: assets/img/Jigani.jpg
     content: >
-      I have seen the transformation in students. I never expected them to be so happy in the classroom. The change was beautiful.
+      "I am thrilled to see about 30 student leaders from our cluster. I hope that next year there will be 100 leaders.  Involve has helped our schools build the learning losses from last two years." 
     active: 
   
   - author: Nataraj Sir, MLA Mylapore, Chennai
