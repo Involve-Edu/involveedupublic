@@ -21,6 +21,17 @@ carousel:
 
 student_crisis:
   title: THE STUDENT CRISIS IN INDIA.
+  stat:
+    - statVal: 50%
+      statProgress: 50%
+      stat_desc: Nearly  50% of the occupations today will 
+                 no longer exist by 2025
+    
+    - statVal: 48%
+      statProgress: 348%
+      stat_desc: Less than 48% of the 5th graders can perform 
+                 grade-2 level basic reading and arithmetic
+    
   blurb: >
     The COVID-19 pandemic has exposed the frailties of our education system. 
     The loss of spaces and structures of education led to tremendous loss of learning,as it is 
