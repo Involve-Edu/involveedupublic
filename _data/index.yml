@@ -205,39 +205,64 @@ media_recognition:
       img: assets/img/linkedin.png
 
   slide_set_2:
-    - link: https://inc42.com/buzz/here-are-the-eight-tech-nonprofit-startups-selected-for-n-core-incubator/
-      img: assets/img/inc42.png
+    - link: https://www.thebetterindia.com/180121/iit-madras-innovation-education-peer-learning-india/
+      img: assets/img/Thebetterindia.png 
     
-    - link: https://www.forbes.com/sites/devinthorpe/2019/12/03/gratitude-network-announces-30-fellows-for-2020-cohort-of-changemakers-for-children/?sh=1fc0a7e13897
-      img: assets/img/forbes.png
+    - link: https://yourstory.com/2018/08/iit-madras-peer-teaching-method-involve
+      img: assets/img/yourstory.png
+    
+    - link: https://www.edexlive.com/beinspired/2018/aug/09/this-21-year-old-student-from-iit-madras-is-involving-students-in-teaching-3610.html
+      img: assets/img/Edex.jpg
+    
+    - link: https://thelogicalindian.com/my-social-responsibility/invovle-peer-learning-iit-madras/
+      img: assets/img/thelogicalindian.jpg
+    
+    - link: https://www.thehindu.com/news/cities/chennai/start-up-chosen-for-mentorship-programme-in-singapore/article23411561.ece
+      img: assets/img/Thehindu.jpg
+
+    - link: https://timesofindia.indiatimes.com/venture-capital/first-cisco-n/core-non-profit-tech-cohort-graduates/articleshow/66898107.cms
+      img: assets/img/TOI.jpg  
     
     - link: https://www.dtnext.in/News/City/2018/04/04035303/1067619/Education-startup-equips-students-with-21st-century-.vpf
       img: assets/img/dtnext.jpg
-    
-    - link: https://drive.google.com/open?id=1yr_Dpy7t9PLH_ANjhDrPEUpFd6pf2DHw
-      img: assets/img/dinamalar.png
-    
-    - link: https://drive.google.com/file/d/0B6AZGoRRvL65bThmQ2JVckhnRTQ/view
-      img: assets/img/dainik.jpg
-    
+
+      -link: https://www.techcircle.in/2018/05/28/n-core-incubator-selects-8-tech-non-profits-for-cisco-backed-programme
+      img: assets/img/techcircle.jpg  
+
+      -link: https://inc42.com/buzz/here-are-the-eight-tech-nonprofit-startups-selected-for-n-core-incubator/
+      img: assets/img/inc42.png
+
+      -link: https://www.deccanchronicle.com/nation/current-affairs/100619/making-leaders-out-of-children-involve-shows-the-way.html
+      img: assets/img/deccanchronicle.jpg
+
 partners:
   title: OUR PARTNERS
   slide_set_1:
 
-    - link: https://uwindia.org/
-      img: assets/img/united.png
+    - link: https://gratitude-network.org/
+      img: assets/img/gratitude.png 
 
-    - link: https://www.sif.org.sg/en
-      img: assets/img/sif.png
+    - link: https://www.thenudge.org/
+      img: assets/img/nudge.png
 
-    - link: https://www.omidyarnetwork.in/
-      img: assets/img/omid.png
-    
     - link: https://www.centralsquarefoundation.org/
-      img: assets/img/csf.jpg
+      img: assets/img/Centralsquarefoundation.png 
+    
+    - link: https://www.cma-cgm.com/
+      img: assets/img/CMAgm.png 
     
     - link: https://mantra4change.com/
-      img: assets/img/Mantra.png
+      img: assets/img/Mantra.png 
+
+    - link: https://www.sif.org.sg/en
+      img: assets/img/Singapore.png
+
+    - link: https://www.capgemini.com/
+      img: assets/img/Capgemini.png 
+ 
+
+
+ 
   
   slide_set_2:
     
