@@ -186,6 +186,9 @@ mentors:
 media_recognition:
   title: MEDIA RECOGNITIONS
   slide_set_1:
+    - link: http://www.greatplacetowork.in/get-certified/certified-organizations/
+      img: assets/img/Great Place.png
+
     - link: https://yourstory.com/2018/08/iit-madras-peer-teaching-method-involve
       img: assets/img/yourstory.png
     
