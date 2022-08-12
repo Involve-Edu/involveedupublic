@@ -91,7 +91,7 @@ impact:
 
 testimonial:
   - author: Cheeranlal, Student Leader, Pachadhana Kutir
-    img: assets/img/Kutir.jpeg
+    img: assets/img/kutirr.png
     content: >
      "सर, पहले मैं अपने स्कूल में टीचर से  कोई डाउट नहीं पूछता था लेकिन अब जब मैं पढता हूँ और मेरे लर्नर्स मेरे से सवाल पूछते हैं तो मुझे बहुत  अच्छा लगता है और मैं भी अब अपने टीचर से अपना डाउट पूछता हूँ ” 
     active: active
@@ -112,12 +112,6 @@ testimonial:
     img: assets/img/Jigani.jpg
     content: >
       "I am thrilled to see about 30 student leaders from our cluster. I hope that next year there will be 100 leaders.  Involve has helped our schools build the learning losses from last two years." 
-    active: 
-  
-  - author: Nataraj Sir, MLA Mylapore, Chennai
-    img: assets/img/aboutUs/logo/placeholderlogoresized.png
-    content: >
-      Peer Teaching is a unique concept enabling students to share their learning experience, helping fellow students. Student-leaders encourage peers to clear their doubts and learning becomes fun. I have seen their work in some of the corporation schools in Mylapore. I was amazed at the transformation among the student-leaders and learners.
     active: 
 
   - author: Manveen Chadha, Mentor, Involve
