@@ -103,7 +103,7 @@ description: "Involve equips students with academic and future-ready skills thro
             </div>
             <div class="row">
                 {% for item in site.data.index.empovered_student.skills %}
-                <div class="col">
+                <div class="col col-xs-12" >
                     <div class="skill-section {{item.background_colour}}">
                         <div class='skill-section-title'>{{item.title}}</div>
                         <div class='skill-section-image'><img class="img-fluid" src="{{item.img}}" /></div>
