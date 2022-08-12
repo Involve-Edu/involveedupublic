@@ -203,7 +203,7 @@ media_recognition:
 
   slide_set_2:
     - link: https://www.thebetterindia.com/180121/iit-madras-innovation-education-peer-learning-india/
-      img: assets/img/Thebetterindia.png 
+      img: assets/img/tbi.png 
     
     - link: https://yourstory.com/2018/08/iit-madras-peer-teaching-method-involve
       img: assets/img/yourstory.png
@@ -212,16 +212,16 @@ media_recognition:
       img: assets/img/Edex.jpg
     
     - link: https://thelogicalindian.com/my-social-responsibility/invovle-peer-learning-iit-madras/
-      img: assets/img/thelogicalindian.jpg
+      img: assets/img/tli.png 
     
     - link: https://www.thehindu.com/news/cities/chennai/start-up-chosen-for-mentorship-programme-in-singapore/article23411561.ece
-      img: assets/img/Thehindu.jpg
+      img: assets/img/th.jpg
 
     - link: https://timesofindia.indiatimes.com/venture-capital/first-cisco-n/core-non-profit-tech-cohort-graduates/articleshow/66898107.cms
       img: assets/img/TOI.jpg  
     
     - link: https://www.dtnext.in/News/City/2018/04/04035303/1067619/Education-startup-equips-students-with-21st-century-.vpf
-      img: assets/img/dtnext.jpg
+      img: assets/img/dt.jpg
 
       -link: https://www.techcircle.in/2018/05/28/n-core-incubator-selects-8-tech-non-profits-for-cisco-backed-programme
       img: assets/img/techcircle.jpg  
