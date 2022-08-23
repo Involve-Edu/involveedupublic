@@ -23,6 +23,14 @@ timeline:
     blurb: "2020: Involves Peer Teaching program shortlisted for Reimagine Education Presence Teaching and Learning award."
     number: 06
 
+  - text_position: top
+    blurb: "2021: We launched, 'Learn from Home' Initiative, 'Online Peer Teaching Progrm, Reading Program. We were also shortlistef for Presence Learning And Teaching Award"
+    number: 07
+
+  - text_position: bottom
+    blurb: "We launched, 'Project Parivaar in Madhya Pradesh & Karnataka. We were also shortlisted for Hundred Video."
+    number: 08
+
 people:
   culture_blurb: >
     We believe in the power of teams to achieve the extraordinary. 
@@ -69,11 +77,10 @@ people:
       bio: MALAVIKA ACHARYA
       img: assets/img/aboutUs/malavika.jpeg
 
-    - name: Sindhu K
+    - name: Mukul
       designation: Operations Associate
-      bio: SINDHU K
-      img: assets/img/aboutUs/sindhu.jpeg
-
+      bio: Mukul
+      img: assets/img/aboutUs/mukul.jpeg
 
     - name: Anna Daniel
       designation: Curriculum Lead
@@ -90,19 +97,29 @@ people:
       bio: David Nallathambi
       img: assets/img/aboutUs/Nandini.jpeg
 
-    - name: David Nallathambi
-      designation: Fundraising and Operations Mentor
-      bio: David Nallathambi
-      img: assets/img/aboutUs/david.jpeg
+    - name: Shamala
+      designation: Operations Lead
+      bio: Shamala
+      img: assets/img/aboutUs/shamala.jpeg
+
+    - name: Vanishri
+      designation: Government Relations Associate
+      bio: Vanishri
+      img: assets/img/aboutUs/vanishri.jpeg
 
 culture:
   description: >
-      At Involve, we believe that the strength of an organization lies in its team. 
-      We try to ensure that each member of our team is given opportunities to learn, lead and 
-      grow in their chosen space. The values that we prioritize as an organization also reflect 
-      our commitment towards growth for our students, our team and ourselves. We operate with 
-      the motto "Take chances, make mistakes and treat them as learning opportunities."
-  group_img: assets/img/aboutUs/teamActivityCropped.jpeg
+      At Involve, we believe that the strength of an organization lies in its team. We try to 
+      ensure that each team member is allowed to learn, lead and grow in 
+      their chosen space. Our values drive this organization, and we always strive 
+      to make our decisions adhering to them. These are the non-negotiables for us. 
+      We focus on the following values: 'Trust,' 'Respect,' 'Gratitude,' 
+      'Collaboration,' 'Growth in Mindset,' 'Ownership' and 'Being Baudis.'  
+
+      We operate with the motto, "Take chances, make mistakes and treat them as 
+      learning opportunities"
+
+  group_img: assets/img/aboutUs/tt.jpg
 
 awards:
   - link: https://www.reimagine-education.com/shortlisted-applicants/
