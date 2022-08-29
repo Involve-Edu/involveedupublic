@@ -215,13 +215,13 @@ media_recognition:
     - link: https://timesofindia.indiatimes.com/venture-capital/first-cisco-n/core-non-profit-tech-cohort-graduates/articleshow/66898107.cms
       img: assets/img/TOI.jpg  
 
-    -link: https://www.techcircle.in/2018/05/28/n-core-incubator-selects-8-tech-non-profits-for-cisco-backed-programme
+    - link: https://www.techcircle.in/2018/05/28/n-core-incubator-selects-8-tech-non-profits-for-cisco-backed-programme
       img: assets/img/techcircle.jpg  
 
-    -link: https://inc42.com/buzz/here-are-the-eight-tech-nonprofit-startups-selected-for-n-core-incubator/
+    - link: https://inc42.com/buzz/here-are-the-eight-tech-nonprofit-startups-selected-for-n-core-incubator/
       img: assets/img/inc42.png
 
-    -link: https://www.deccanchronicle.com/nation/current-affairs/100619/making-leaders-out-of-children-involve-shows-the-way.html
+    - link: https://www.deccanchronicle.com/nation/current-affairs/100619/making-leaders-out-of-children-involve-shows-the-way.html
       img: assets/img/deccanchronicle.jpg
 
 partners:
