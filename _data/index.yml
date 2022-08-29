@@ -117,7 +117,7 @@ testimonial:
   - author: Manveen Chadha, Mentor, Involve
     img: assets/img/manveen.png
     content: >
-      It gives me great pride in being part of your journey at Involve and seeing it grow and reach out to a lot more children and young adults who want to walk with you on this amazing journey. Your work is creating ripples in the lives you touch, but I must add -'miles to go before we reach our goal’.
+      It gives me great pride in being part of your journey at Involve and seeing it grow and reach out to a lot more children and young adults who want to walk with you on this amazing journey. Your work is creating ripples in the lives you touch, but I must add -'miles to go before we reach our goal'.
     active: 
 
 mentors:
@@ -175,8 +175,6 @@ mentors:
     linkedin: https://www.linkedin.com/in/tvdupont/
     arrow: up
 
-
-    
 media_recognition:
   title: MEDIA RECOGNITIONS
   slide_set_1:
@@ -229,7 +227,6 @@ media_recognition:
 partners:
   title: OUR PARTNERS
   slide_set_1:
-
     - link: https://gratitude-network.org/
       img: assets/img/gratitude.png 
 
@@ -251,15 +248,10 @@ partners:
     - link: https://www.capgemini.com/
       img: assets/img/Capgemini.png 
  
-
-
- 
-  
   slide_set_2:
-    
     - link: http://gratitude-network.org/the-gratitude-network-fellowship/
       img: assets/img/gratitude.png
-    
+
     - link: https://csi.thenudge.org/
       img: assets/img/nudge.png
 
