@@ -5,7 +5,7 @@ description: "Involve equips students with academic and future-ready skills thro
 ---
 
 <main role="main">
-    <div>
+    <div class="text-center">
     <h1>Website under Construction</h1>
     </div>
  </main>
