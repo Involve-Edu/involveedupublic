@@ -29,7 +29,9 @@ description: "We believe in the power of team to achieve the extraordinary. We a
                     <div class="timeline-content">
                         <p class="description">
                             {{item.blurb}}
+                            {% if item.add_break == true %}
                             <br/><br/><br/>
+                            {% endif %}
                         </p>
                     </div>
                 </div>

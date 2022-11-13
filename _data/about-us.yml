@@ -1,21 +1,27 @@
 timeline:
   - year: 2017
     blurb: "Involve’s Peer Teaching program of Involve wins the Global Engagement Summit at Northwestern University Chicago"
-  
+    add_break: true
+
   - year: 2018
     blurb: "Involve registered as an organization and its year long Peer Teaching program implemented with 200 students in India."
+    add_break: false
 
   - year: 2018
     blurb: "Involve recognized as one of the top 10 non-profits in India by N/Core and gets incubated at Singapore International Foundation's YSE program."
+    add_break: true
 
   - year: 2019
     blurb: "Peer Teaching program conducted in 30 schools in Chennai and Bengaluru, impacting 2400 Student-Leaders and Learners"
+    add_break: false
 
   - year: 2020
     blurb: "Online Peer Teaching pilot started with 30 groups of Student-Leaders and Learners  teaching and learning from one another."
+    add_break: true
 
   - year: 2020
     blurb: "Involves Peer Teaching program shortlisted for Reimagine Education Presence Teaching and Learning award."
+    add_break: false
 
 people:
   culture_blurb: >
