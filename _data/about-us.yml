@@ -1,27 +1,21 @@
 timeline:
-  - text_position: top
-    blurb: "2017: Involve’s Peer Teaching program of Involve wins the Global Engagement Summit at Northwestern University Chicago"
-    number: 01
+  - year: 2017
+    blurb: "Involve’s Peer Teaching program of Involve wins the Global Engagement Summit at Northwestern University Chicago"
   
-  - text_position: bottom
-    blurb: "2018: Involve registered as an organization and its year long Peer Teaching program implemented with 200 students in India."
-    number: 02
+  - year: 2018
+    blurb: "Involve registered as an organization and its year long Peer Teaching program implemented with 200 students in India."
 
-  - text_position: top
-    blurb: "2018: Involve recognized as one of the top 10 non-profits in India by N/Core and gets incubated at Singapore International Foundation's YSE program."
-    number: 03
+  - year: 2018
+    blurb: "Involve recognized as one of the top 10 non-profits in India by N/Core and gets incubated at Singapore International Foundation's YSE program."
 
-  - text_position: bottom
-    blurb: "2019: Peer Teaching program conducted in 30 schools in Chennai and Bengaluru, impacting 2400 Student-Leaders and Learners"
-    number: 04
+  - year: 2019
+    blurb: "Peer Teaching program conducted in 30 schools in Chennai and Bengaluru, impacting 2400 Student-Leaders and Learners"
 
-  - text_position: top
-    blurb: "2020: Online Peer Teaching pilot started with 30 groups of Student-Leaders and Learners  teaching and learning from one another."
-    number: 05
+  - year: 2020
+    blurb: "Online Peer Teaching pilot started with 30 groups of Student-Leaders and Learners  teaching and learning from one another."
 
-  - text_position: bottom
-    blurb: "2020: Involves Peer Teaching program shortlisted for Reimagine Education Presence Teaching and Learning award."
-    number: 06
+  - year: 2020
+    blurb: "Involves Peer Teaching program shortlisted for Reimagine Education Presence Teaching and Learning award."
 
 people:
   culture_blurb: >
