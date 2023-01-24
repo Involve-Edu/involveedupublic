@@ -15,28 +15,27 @@ description: "We believe in the power of team to achieve the extraordinary. We a
                     </div>
                 </div>
             </div>
-            <section class="ps-timeline-sec ml-80">
-                <div class="container container-style">
-                    <ol class="ps-timeline">
-                        {% for item in site.data.about-us.timeline %}
-                        {% if item.text_position == "top" %}
-                        <li>
-                            <div class="img-handler-top">
-                                <p class="milestone-text-1-3-5 mt-17">{{item.blurb}}</p>
-                            </div>
-                            <span class="ps-sp-top">{{item.number}}</span>
-                        </li>
-                        {% else %}
-                        <li>
-                            <div class="img-handler-bot">
-                                <p class="milestone-text-2-4-6 mt-11 mt-7">{{item.blurb}}</p>
-                            </div>
-                            <span class="ps-sp-bot">{{item.number}}</span>
-                        </li>
-                        {% endif %}
-                        {% endfor %}
-                    </ol>
+            <section class="main-timeline">
+                {% for item in site.data.about-us.timeline %}
+                <div class="timeline">
+                    <div class="icon"></div>
+                    <div class="date-content">
+                        <div class="date-outer"> 
+                            <span class="date">
+                                <span class="year">{{item.year}}</span> 
+                            </span>
+                        </div>
+                    </div>
+                    <div class="timeline-content">
+                        <p class="description">
+                            {{item.blurb}}
+                            {% if item.add_break == true %}
+                            <br/><br/><br/>
+                            {% endif %}
+                        </p>
+                    </div>
                 </div>
+                {% endfor %}
             </section>
         </div>
     </div>
