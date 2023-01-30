@@ -1,0 +1,63 @@
+banner:
+  img: assets/img/aboutUs/getInvolvedHeader.png
+
+main:
+  title: MAARGADARSHI
+  blurb: >
+    Our flagship program- Peer Teaching focusses on leveraging collaborative learning spaces in schools to build a sense of agency in students. 
+
+carrers:
+  title: MAARGADARSHI
+  jobs:
+    - title: Fundraising Lead
+      date: Immediate Joining 
+      apply_link: https://docs.google.com/document/d/1s4jvDsEPWTa52WmBsl7sDPiiPV5C0AJdRLRkcx-nNTA/edit
+
+    - title: Involve Operations Lead - Chhindwara
+      date: Immediate Joining  
+      apply_link: https://drive.google.com/file/d/1bfuKfYAD2q4f-Oye-WueEMZuXzbjimr5/view?usp=sharing
+
+    - title: Involve Operations Lead - Bangalore
+      date: Immediate Joining  
+      apply_link: https://drive.google.com/file/d/1YSINFSIDb2SAmGYMY70czJmoJ1i_3Ikx/view?usp=sharing
+
+part_time_carrers:
+  title: IMPACT
+  jobs:
+    - title: Intern with Involve
+      blurb: >
+        Do you want to explore the education/social sector? Are you curious about what it takes to build an organization ground up? Explore our Internship opportunities.
+      apply: 
+
+    - title: Volunteer with Involve
+      blurb: >
+        Are Hero you interested in contributing to our cause, but can't join us full time? Volunteer with us and add to our team with your skills!
+      apply: 
+
+partner_with_us:
+  title: Partner with us to build student agency & create more student-leaders
+  blurb: >
+    Our flagship program- Peer Teaching focusses on leveraging collaborative learning spaces in schools to build a sense of agency in students. 
+
+innovation_programs:
+  - title: Story of Change 1
+    blurb: >
+       This story is of Mahendra. Mahendra was a student in 8th standard. 
+       He struggled to pay attention and focus in his peer-teaching class. 
+       His leader was finding it challenging to take classes for him. So, he was added 
+       to a group where Deekshitha was the student leader. She was ready to support Mahendra's 
+       leader and work with him to make maths interesting for him by doing various activities. 
+       And eventually, Mahendra became more involved in learning and said, "I am learning addition 
+       from Deekshitha, and I am really happy." Another striking factor in this story is Deekshitha is, 
+       from 7th grade, who confidently managed a learner who was a senior. 
+       This shows that age is just a number if you have the will to do something!
+    img: assets/img/ourPrograms/storyOfChange1.jpeg
+  
+  - title: Story of Change 2
+    blurb: >
+      Entering this new year, we had a question for our Student Leaders. The question was, "What is your goal for this year, and how are you planning to achieve it."
+      During this activity, we saw our leaders have big goals, think critically about different ways to achieve the goals, list materials and steps to be taken to achieve these goals. The leaders not only did it for themselves but also asked questions to help each other think critically. 
+      It's time we stop and wonder, what does it truly take for our students to take charge of their life and accomplish the unachievable? 
+      Maybe some space to think without limitations and someone telling them, "Sky is the limit."
+    img: assets/img/ourPrograms/storyOfChange2.jpeg
+
