@@ -143,8 +143,23 @@ description: "Involve equips students with academic and future-ready skills thro
                 </div>
             </div>
         </div>
-        <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/cefc4bee-548f-41ec-b129-9fb84476360c/page/0Oz5C" frameborder="0" style="border:0"></iframe>
-       
+        <div class="row pb-3 ">
+            <div class="col statText">
+                <p class="">{{site.data.index.impact.blurb}}</p>
+            </div>
+        </div>
+        <div class="row pb-3 impact-section">
+            {% for item in site.data.index.impact.stat %}
+                <div class="col-6 col-md-4">
+                    {% 
+                        include stats_ui.html 
+                        stat = item.statVal
+                        progress_bar_val = item.statProgress
+                        stat_desc = item.stat_desc
+                    %}
+                </div>
+            {% endfor %}
+        </div>
     </div>
     <div class="container-fluid testimonial-section-parent">
         <div class="container">
