@@ -2,12 +2,11 @@
     <div class="pre-header">
         <div class="container">
             <div class="contact-number">
-                <i class="fa fa-mobile-phone" style="font-size:23px; vertical-align:sub; padding-top: 1px; "></i>
-                +91-9087864370
+                <i class="fa fa-mobile-phone" style="font-size:23px; vertical-align:sub; padding-top: 1px; "></i> +91-9087864370
             </div>
             <div class="social-media-section">
                 {% for item in site.data.social-media %}
-                <a href="{{item.link}}" class="fa {{item.icon}}" target="_blank"></a>
+                    <a href="{{item.link}}" class="fa {{item.icon}}" target="_blank"></a>
                 {% endfor %}
             </div>
         </div>
@@ -17,11 +16,10 @@
             <a class="navbar-brand" href="/">
                 <img class="logo" src="assets/img/involvelogo.png" />
             </a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
-                aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
-            <div class="collapse navbar-collapse" id="navbarCollapse">
+             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
                         <a class="nav-link" href="about-us">ABOUT US</a>
@@ -29,10 +27,9 @@
                     <li class="dropdown">
                         <a role="button" href="programs" class="dropbtn">OUR PROGRAMS</a>
                         <div class="dropdown-content">
-                            <a href="project-maargadarshi">Project Maargadarshi</a>
-                            <a href="reach-partnerships">REACH-Partnerships</a>
-                            <a href="reach-government">REACH-Government</a>
-                            <a href="other-initiatives">Other Initiatives</a>
+                            <a href="project-1">Project 1</a>
+                              <a href="peer-teaching">Project 2</a>
+                                <a href="peer-teaching">Project 3</a>
                         </div>
                     </li>
                     <li class="nav-item">
@@ -42,15 +39,13 @@
                         <a class="nav-link" href="resources">RESOURCES</a>
                     </li>
                     <li class="nav-item">
-                        <a href="https://fundraisers.giveindia.org/nonprofits/involve"
-                            class="btn custom-btn donate-menu-btn">DONATE</a>
+                        <a href="https://fundraisers.giveindia.org/nonprofits/involve" class="btn custom-btn donate-menu-btn">DONATE</a>
                     </li>
-                    <li class="nav-item">
-                        <a href="https://bit.ly/LCSession" class="btn custom-btn donate-menu-btn">Open Source
-                            Content</a>
+                     <li class="nav-item">
+                        <a href="https://bit.ly/LCSession" class="btn custom-btn donate-menu-btn">Open Source Content</a>
                     </li>
                 </ul>
-            </div>
+            </div> 
         </div>
     </nav>
 </header>
