@@ -1,0 +1,74 @@
+banner:
+  img: assets/img/aboutUs/getInvolvedHeader.png
+
+main:
+  title: REACH-Partnerships
+  blurb: >
+    To create change, collaboration is key.
+     Our REACH (Reimagining education for agency in children) program is aimed at creating partnerships with 
+    civil society and governments to ensure all students can Develop a sense of Agency.
+
+carrers:
+  title: REACH-Partnerships
+  jobs:
+    - title: Fundraising Lead
+      date: Immediate Joining 
+      apply_link: https://docs.google.com/document/d/1s4jvDsEPWTa52WmBsl7sDPiiPV5C0AJdRLRkcx-nNTA/edit
+
+    - title: Involve Operations Lead - Chhindwara
+      date: Immediate Joining  
+      apply_link: https://drive.google.com/file/d/1bfuKfYAD2q4f-Oye-WueEMZuXzbjimr5/view?usp=sharing
+
+    - title: Involve Operations Lead - Bangalore
+      date: Immediate Joining  
+      apply_link: https://drive.google.com/file/d/1YSINFSIDb2SAmGYMY70czJmoJ1i_3Ikx/view?usp=sharing
+
+part_time_carrers:
+  title: IMPACT
+  jobs:
+    - title: Intern with Involve
+      blurb: >
+        Do you want to explore the education/social sector? Are you curious about what it takes to build an organization ground up? Explore our Internship opportunities.
+      apply: 
+
+    - title: Volunteer with Involve
+      blurb: >
+        Are Hero you interested in contributing to our cause, but can't join us full time? Volunteer with us and add to our team with your skills!
+      apply: 
+
+partner_with_us:
+  title: Partner with us to build student agency & create more student-leaders
+  blurb: >
+    Our flagship program- Peer Teaching focusses on leveraging collaborative learning spaces in schools to build a sense of agency in students. 
+
+
+partners:
+  partner1: Parivaar Education Society Madhya Pradesh
+  img1: assets/img/reachPartnership/logo1.jpeg
+  
+  partner2: Sankalp Ek Prayas Chhatisgrah
+  img2: assets/img/reachPartnership/logo2.jpeg
+
+
+innovation_programs:
+  - title: Story of Change 1
+    blurb: >
+       On asking one of the student Leader Cheeranlal from Pachadhana kutir, What change he see in himself after becoming student Leader. This was his response
+       "सर, पहले मैं अपने स्कूल में टीचर से  कोई डाउट नहीं पूछता था लेकिन अब जब मैं पढता हूँ 
+       और मेरे लर्नर्स मेरे से सवाल पूछते हैं तो मुझे बहुत  अच्छा लगता है और मैं भी अब अपने टीचर से 
+       अपना डाउट पूछता हूँ ”. Cheeranlal, very proudly also said  “ जब ये लर्नर लोग मेरा
+       बात मानते हैं, भैया बोलते हैं तो बहुत अच्छा लगता है”
+    img: assets/img/ourPrograms/storyOfChange1.jpeg
+  
+  - title: Story of Change 2
+    blurb: >
+      What if we tell you that if dedication to follow your goal has passion has no age?
+      This story is about a girl named Amrita from Jheelpipadiya who studies in the IInd 
+      Standard.
+      One day I got late in the evening at the Kutir. That's why my eyes fell on Amrita. She was going home with a torch in her hand. I stopped her and asked, "Do you come to the Kutir every day?". I was stunned to hear her answer, "Yes, sir, both school and Kutir." 
+      I then asked her, "You carry this torch from morning in the school to evening in the Kutir; what if someone steals it?" She replied, "No sir, they are all my friends. They would never steal it."
+      I finally asked her, "Do you like studying?" To which she immediately replied, 'Yes, sir, I do. That's why I come every day."
+      
+      After this response, I immediately started thinking of the rest of the students as these days it becomes dark early, and most of the students don't come to the Kutir in the evening. And here Amrita was carrying a torch from morning to evening just because she liked studying.
+    img: assets/img/reachPartnership/storyOfChange2.jpeg
+    
