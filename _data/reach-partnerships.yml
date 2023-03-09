@@ -44,11 +44,32 @@ partner_with_us:
 
 partners:
   partner1: Parivaar Education Society Madhya Pradesh
-  img1: assets/img/reachPartnership/logo1.jpeg
+  img1: assets/img/projects/partner2.jpeg
   
   partner2: Sankalp Ek Prayas Chhatisgrah
-  img2: assets/img/reachPartnership/logo2.jpeg
+  img2: assets/img/projects/partner1.jpeg
 
+impact:
+  stat:
+    - statVal: 234 
+      statProgress: 
+      stat_desc: Students-Leaders
+    
+    - statVal: 6579
+      statProgress:
+      stat_desc: Learners
+    
+    - statVal: 121
+      statProgress:
+      stat_desc: Community Centers
+    
+    - statVal: 38.6%
+      statProgress: 40%
+      stat_desc: Improvement numeracy score of students
+    
+    - statVal: 65%
+      statProgress: 65%
+      stat_desc: Increase in  number of Student Leaders showing highest levels of confidence and communication skills
 
 innovation_programs:
   - title: Hear from the Student Leader itself
@@ -58,7 +79,7 @@ innovation_programs:
        और मेरे लर्नर्स मेरे से सवाल पूछते हैं तो मुझे बहुत  अच्छा लगता है और मैं भी अब अपने टीचर से 
        अपना डाउट पूछता हूँ ”. Cheeranlal, very proudly also said  “ जब ये लर्नर लोग मेरा
        बात मानते हैं, भैया बोलते हैं तो बहुत अच्छा लगता है”
-    img: assets/img/ourPrograms/storyOfChange1.jpeg
+    img: assets/img/projects/storyOfChange-r1.jpeg
   
   - title: Amrita
     blurb: >
@@ -70,5 +91,5 @@ innovation_programs:
       I finally asked her, "Do you like studying?" To which she immediately replied, 'Yes, sir, I do. That's why I come every day."
       
       After this response, I immediately started thinking of the rest of the students as these days it becomes dark early, and most of the students don't come to the Kutir in the evening. And here Amrita was carrying a torch from morning to evening just because she liked studying.
-    img: assets/img/reachPartnership/storyOfChange2.jpeg
+    img: assets/img/projects/storyOfChange-r2.jpeg
     

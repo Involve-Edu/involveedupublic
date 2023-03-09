@@ -45,7 +45,7 @@ description: "We are always on the lookout for partners to join us in our Missio
                                 <div class="section-title-text">{{site.data.project-maargadarshi.part_time_carrers.title}}</div>
                             </div>
                             <div class="row pb-3">
-                            {% for item in site.data.project-maargadarshi.impact.stat %}
+                            {% for item in site.data.reach-partnerships.impact.stat %}
                                 <div class="col-6 col-md-4">
                                     {% 
                                         include stats_ui.html 
