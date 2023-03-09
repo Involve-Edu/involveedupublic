@@ -20,29 +20,43 @@ description: "We are always on the lookout for partners to join us in our Missio
                     <div class="col-md-2 col-sm-12"></div>
                     <div class="col-md-8 col-sm-12">
                         <p class="bunchOfText">{{site.data.reach-partnerships.main.blurb}}</p>
-                        <div class="section-title">
-                            <img class="img-fluid" src='assets/img/Title-BG3.png' />
-                            <div class="section-title-text">{{site.data.project-maargadarshi.part_time_carrers.title}}</div>
-                        </div>
-                        <div class="section-title">
-                        <img class="img-fluid" src='assets/img/Title-BG3.png'/>
-                        <H2 class="section-title-text">Partners</H2>
-                    </div>
                     </div>
                     <div class="col-md-2 col-sm-12"></div>
-                </div>
-                <!-- New -->
-                <div class="row">
-                <div class="col-sm-12 col-md-4 mt-3">
-                    <div class="plAdoptionImage text-center mt-4">
-                        <img class="progrmImg ofpTeaching" src="{{site.data.reach-partnerships.partners.img2}}"/>
-                         <h3 class="mt-4">{{site.data.reach-partnerships.partners.partner1}}</h3>
-                    </div>
-                </div>
-                <div class="col-sm-12 col-md-4 mt-3">
-                    <div class="plAdoptionImage text-center mt-4">
-                        <img class="progrmImg ofpTeaching" src="{{site.data.reach-partnerships.partners.img1}}"/>
-                         <h3 class="mt-4">{{site.data.reach-partnerships.partners.partner2}}</h3>
+                    <div class="row">
+                        <div class="col">
+                            <div class="section-title">
+                                <img class="img-fluid" src='assets/img/Title-BG3.png'/>
+                                <H2 class="section-title-text">Partners</H2>
+                            </div>
+                            <div class="row pb-3">
+                                <div class="plAdoptionImage text-center mt-4">
+                                    <img class="progrmImg ofpTeaching" src="{{site.data.reach-partnerships.partners.img2}}"/>
+                                    <h3 class="mt-4">{{site.data.reach-partnerships.partners.partner1}}</h3>
+                                </div>
+                                <div class="plAdoptionImage text-center mt-4">
+                                    <img class="progrmImg ofpTeaching" src="{{site.data.reach-partnerships.partners.img1}}"/>
+                                    <h3 class="mt-4">{{site.data.reach-partnerships.partners.partner2}}</h3>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="section-title">
+                                <img class="img-fluid" src='assets/img/Title-BG3.png' />
+                                <div class="section-title-text">{{site.data.project-maargadarshi.part_time_carrers.title}}</div>
+                            </div>
+                            <div class="row pb-3">
+                            {% for item in site.data.project-maargadarshi.impact.stat %}
+                                <div class="col-6 col-md-4">
+                                    {% 
+                                        include stats_ui.html 
+                                        stat = item.statVal
+                                        progress_bar_val = item.statProgress
+                                        stat_desc = item.stat_desc
+                                    %}
+                                </div>
+                            {% endfor %}
+                        </div>
+                        </div>
                     </div>
                 </div>
                 <div class="row">
@@ -70,7 +84,6 @@ description: "We are always on the lookout for partners to join us in our Missio
                     <div class="col-md-2 col-sm-12"></div>
                 </div>
             </div>
-            <!-- New End -->
     </div>
         </div>
     </section>

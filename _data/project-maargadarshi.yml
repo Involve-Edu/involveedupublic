@@ -34,13 +34,37 @@ part_time_carrers:
         Are Hero you interested in contributing to our cause, but can't join us full time? Volunteer with us and add to our team with your skills!
       apply: 
 
+impact:
+  title: OUR IMPACT SO FAR
+  blurb: >
+    After our programs, our students have been able to improve their foundational
+    learning and have demonstrated improved confidence, taken initiatives, and solved problems
+    in their classrooms, not just for themselves, but also for their peers. We are creating a
+    culture of students learning from each other. Our impact in numbers:
+  stat:
+    - statVal: 701 
+      statProgress: 
+      stat_desc: Students-Leaders
+    
+    - statVal: 6570
+      statProgress:
+      stat_desc: Learners
+    
+    - statVal: 62.8%
+      statProgress: 60%
+      stat_desc: Improvement in numeracy score of students
+    
+    - statVal: 80%
+      statProgress: 80%
+      stat_desc: Students Leaders became more confident and better communicators as a result of the program
+
 partner_with_us:
   title: Partner with us to build student agency & create more student-leaders
   blurb: >
     Our flagship program- Peer Teaching focusses on leveraging collaborative learning spaces in schools to build a sense of agency in students. 
 
 innovation_programs:
-  - title: Story of Change 1
+  - title: Story of Mahendra
     blurb: >
        This story is of Mahendra. Mahendra was a student in 8th standard. 
        He struggled to pay attention and focus in his peer-teaching class. 
@@ -53,11 +77,12 @@ innovation_programs:
        This shows that age is just a number if you have the will to do something!
     img: assets/img/ourPrograms/storyOfChange1.jpeg
   
-  - title: Story of Change 2
+  - title: What is your goal?
     blurb: >
       Entering this new year, we had a question for our Student Leaders. The question was, "What is your goal for this year, and how are you planning to achieve it."
       During this activity, we saw our leaders have big goals, think critically about different ways to achieve the goals, list materials and steps to be taken to achieve these goals. The leaders not only did it for themselves but also asked questions to help each other think critically. 
       It's time we stop and wonder, what does it truly take for our students to take charge of their life and accomplish the unachievable? 
       Maybe some space to think without limitations and someone telling them, "Sky is the limit."
-    img: assets/img/ourPrograms/storyOfChange2.jpeg
+    img: assets/img/ourPrograms/OurProgramHeader.png
+
 

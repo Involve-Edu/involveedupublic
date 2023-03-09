@@ -6,8 +6,8 @@ description: "We are always on the lookout for partners to join us in our Missio
 
 <main role="main">
     <section>
-        <div class="container-fluid pb-5 goal-section-parent">
-            <div class="container ">
+        <div class="container-fluid goal-section-parent">
+            <div class="container">
                 <div class="row">
                     <div class="col">
                         <H1 class="section-title">
@@ -17,34 +17,24 @@ description: "We are always on the lookout for partners to join us in our Missio
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-12 col-sm-12 listofjob">
-                        <!-- <table class="table">
-                            <thead>
-                                <th>Job Title</th>
-                                <th>Joining Date</th>
-                                <th>Job Description</th>
-                            </thead>
-                            <tbody>
-                                {% for job in site.data.get-involved.carrers.jobs %}
-                                <tr>
-                                    <td>{{job.title}}</td>
-                                    <td>{{job.date}}</td>
-                                    <td>
-                                        <a href="{{job.apply_link}}">Click here</a>
-                                    </td>
-                                </tr>
-                                {% endfor %}
-                            </tbody>
-                        </table> -->
-                    </div>
-                </div>
-                <div class="row">
                     <div class="col-md-2 col-sm-12"></div>
                     <div class="col-md-8 col-sm-12">
                         <p class="bunchOfText">{{site.data.project-maargadarshi.partner_with_us.blurb}}</p>
                         <div class="section-title">
                             <img class="img-fluid" src='assets/img/Title-BG3.png' />
                             <div class="section-title-text">{{site.data.project-maargadarshi.part_time_carrers.title}}</div>
+                        </div>
+                        <div class="row pb-3">
+                            {% for item in site.data.project-maargadarshi.impact.stat %}
+                                <div class="col-6 col-md-4">
+                                    {% 
+                                        include stats_ui.html 
+                                        stat = item.statVal
+                                        progress_bar_val = item.statProgress
+                                        stat_desc = item.stat_desc
+                                    %}
+                                </div>
+                            {% endfor %}
                         </div>
                         <div class="section-title">
                         <img class="img-fluid" src='assets/img/Title-BG3.png'/>
@@ -69,6 +59,7 @@ description: "We are always on the lookout for partners to join us in our Missio
                 </div>
             </div>
         </div>
+    </div>
     </section>
    
    
