@@ -1,6 +1,6 @@
 timeline:
   - year: 2017
-    blurb: "Involve’s Peer Teaching program of Involve wins the Global Engagement Summit at Northwestern University Chicago"
+    blurb: "Involve's Peer Teaching program of Involve wins the Global Engagement Summit at Northwestern University Chicago"
     add_break: true
 
   - year: 2018
@@ -22,6 +22,10 @@ timeline:
   - year: 2020
     blurb: "Involves Peer Teaching program shortlisted for Reimagine Education Presence Teaching and Learning award."
     add_break: false
+  
+  - year: 2022
+    blurb: "We were shortlisted by HundrED Global collections, 100 Innovations in Education around the world. We were recognized as Great Place To Work"
+    add_break: true
 
 people:
   culture_blurb: >

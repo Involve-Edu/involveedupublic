@@ -39,14 +39,17 @@ description: "We are always on the lookout for partners to join us in our Missio
                                 </div>
                             </div>
                         </div>
-                        <div class="col">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
                             <div class="section-title">
                                 <img class="img-fluid" src='assets/img/Title-BG3.png' />
                                 <div class="section-title-text">{{site.data.project-maargadarshi.part_time_carrers.title}}</div>
                             </div>
                             <div class="row pb-3">
                             {% for item in site.data.reach-partnerships.impact.stat %}
-                                <div class="col-6 col-md-4">
+                                <div class="col">
                                     {% 
                                         include stats_ui.html 
                                         stat = item.statVal
@@ -55,9 +58,8 @@ description: "We are always on the lookout for partners to join us in our Missio
                                     %}
                                 </div>
                             {% endfor %}
+                            </div>
                         </div>
-                        </div>
-                    </div>
                 </div>
                 <div class="row">
                     <div class="col-md-2 col-sm-12"></div>
