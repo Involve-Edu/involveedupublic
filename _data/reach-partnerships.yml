@@ -43,11 +43,11 @@ partner_with_us:
 
 
 partners:
-  partner1: Parivaar Education Society Madhya Pradesh
-  img1: assets/img/projects/partner2.jpeg
+    - partner: Parivaar Education Society Madhya Pradesh
+      img: assets/img/projects/partner2.jpeg
   
-  partner2: Sankalp Ek Prayas Chhatisgrah
-  img2: assets/img/projects/partner1.jpeg
+    - partner: Sankalp Ek Prayas Chhatisgrah
+      img: assets/img/projects/partner1.jpeg
 
 impact:
   stat:
@@ -92,4 +92,4 @@ innovation_programs:
       
       After this response, I immediately started thinking of the rest of the students as these days it becomes dark early, and most of the students don't come to the Kutir in the evening. And here Amrita was carrying a torch from morning to evening just because she liked studying.
     img: assets/img/projects/storyOfChange-r2.jpeg
-    
+  

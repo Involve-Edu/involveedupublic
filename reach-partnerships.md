@@ -28,26 +28,28 @@ description: "We are always on the lookout for partners to join us in our Missio
                                 <img class="img-fluid" src='assets/img/Title-BG3.png'/>
                                 <H2 class="section-title-text">Partners</H2>
                             </div>
-                            <div class="row pb-3">
-                                <div class="plAdoptionImage text-center mt-4">
-                                    <img class="progrmImg ofpTeaching" src="{{site.data.reach-partnerships.partners.img2}}"/>
-                                    <h3 class="mt-4">{{site.data.reach-partnerships.partners.partner1}}</h3>
-                                </div>
-                                <div class="plAdoptionImage text-center mt-4">
-                                    <img class="progrmImg ofpTeaching" src="{{site.data.reach-partnerships.partners.img1}}"/>
-                                    <h3 class="mt-4">{{site.data.reach-partnerships.partners.partner2}}</h3>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>
+                <div class="row pb-3">
+                            {% for item in site.data.reach-partnerships.partners %}
+                        <div class="col-md-6 col-sm-12 text-center">
+                            <div class="plAdoptionImage">
+                                <img class="img-fluid progrmImg plAdoption" src="{{item.img}}">
+                            </div>
+                            <div class="peerAdoption">
+                                <h4>{{item.partner}}</h4>
+                            </div>
+                        </div>
+                            {% endfor %}
+                    </div>
                 <div class="row">
                     <div class="col">
                             <div class="section-title">
                                 <img class="img-fluid" src='assets/img/Title-BG3.png' />
                                 <div class="section-title-text">{{site.data.project-maargadarshi.part_time_carrers.title}}</div>
                             </div>
-                            <div class="row pb-3">
+                            <div class="row pb-3 impact-section">
                             {% for item in site.data.reach-partnerships.impact.stat %}
                                 <div class="col">
                                     {% 
