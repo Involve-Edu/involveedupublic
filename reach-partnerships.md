@@ -20,16 +20,12 @@ description: "We are always on the lookout for partners to join us in our Missio
                     <div class="col-md-2 col-sm-12"></div>
                     <div class="col-md-8 col-sm-12">
                         <p class="bunchOfText">{{site.data.reach-partnerships.main.blurb}}</p>
-                    </div>
-                    <div class="col-md-2 col-sm-12"></div>
-                    <div class="row">
-                        <div class="col">
-                            <div class="section-title">
+                        <div class="section-title">
                                 <img class="img-fluid" src='assets/img/Title-BG3.png'/>
                                 <H2 class="section-title-text">Partners</H2>
-                            </div>
                         </div>
                     </div>
+                    <div class="col-md-2 col-sm-12"></div>
                 </div>
                 <div class="row pb-3">
                             {% for item in site.data.reach-partnerships.partners %}

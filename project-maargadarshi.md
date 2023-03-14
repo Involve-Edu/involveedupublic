@@ -41,18 +41,18 @@ description: "We are always on the lookout for partners to join us in our Missio
                         <H2 class="section-title-text">STORIES OF CHANGE</H2>
                     </div>
                     <div class="row pb-3 impact-section">
-                {% for item in site.data.project-maargadarshi.innovation_programs %}
-                    <div class="col-md-6 col-sm-12 text-center">
-                        <div class="plAdoptionImage">
-                            <img class="img-fluid progrmImg plAdoption" src="{{item.img}}">
+                            {% for item in site.data.project-maargadarshi.innovation_programs %}
+                        <div class="col-md-6 col-sm-12 text-center">
+                            <div class="plAdoptionImage">
+                                <img class="img-fluid progrmImg plAdoption" src="{{item.img}}">
+                            </div>
+                            <div class="peerAdoption">
+                                <h4>{{item.title}}</h4>
+                                <hr>
+                                <p class="">{{item.blurb}}</p>
+                            </div>
                         </div>
-                        <div class="peerAdoption">
-                            <h4>{{item.title}}</h4>
-                            <hr>
-                            <p class="">{{item.blurb}}</p>
-                        </div>
-                    </div>
-                {% endfor %}
+                            {% endfor %}
                     </div>
                     </div>
                     <div class="col-md-2 col-sm-12"></div>
