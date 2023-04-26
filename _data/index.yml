@@ -248,8 +248,6 @@ partners:
     - link: https://www.capgemini.com/
       img: assets/img/Capgemini.png 
 
-    - link: https://svpindia.org/
-      img: assets/img/svp.png
  
   slide_set_2:
     - link: http://gratitude-network.org/the-gratitude-network-fellowship/
@@ -257,6 +255,10 @@ partners:
 
     - link: https://csi.thenudge.org/
       img: assets/img/nudge.png
+    
+    - link: https://svpindia.org/
+      img: assets/img/svp.jpeg
+    
 
 support:
   title: SUPPORT US
